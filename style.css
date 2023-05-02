@@ -1,0 +1,222 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Raleway:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #394867;
+  color: white;
+  font-family: "Raleway";
+  padding: 0 1rem 1rem 1rem;
+}
+
+h1 {
+  font-family: "Playfair Display";
+  font-weight: normal;
+  margin-bottom: 1rem;
+}
+
+.container {
+  display: flex;
+  gap: 4rem;
+  flex-wrap: no-wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-container {
+  margin-top: 1rem;
+}
+
+.intro {
+  font-size: 0.9em;
+  margin-bottom: 1rem;
+  width: 500px;
+}
+
+.boxed-text {
+  border: 1px dashed rgba(247, 208, 96, 0.5);
+  margin-top: 2rem;
+  padding: 1rem;
+  width: max-content;
+}
+
+.matches-text {
+  margin-top: 2rem;
+  font-family: "Raleway";
+  font-size: 1.1em;
+  font-weight: 400;
+}
+
+#table-container {
+  height: 350px;
+  overflow-y: auto;
+  margin-top: 1rem;
+  display: inline-block;
+}
+
+/* Kevin Powell on YT: https://www.youtube.com/watch?v=lvKK2fs6h4I */
+
+#table-container::-webkit-scrollbar {
+  width: 0.5em;
+  height: 1em;
+}
+
+#table-container::-webkit-scrollbar-track {
+  background: #475c82;
+  border-radius: 100vw;
+  margin-block: 0;
+}
+
+#table-container::-webkit-scrollbar-thumb {
+  background: #5b759c;
+  border-radius: 100vw;
+}
+
+#table-matches {
+  border-collapse: collapse;
+  width: 450px;
+  margin-right: 1rem;
+}
+
+#table-matches thead th {
+  padding-bottom: 0.5rem;
+}
+#table-matches tbody tr {
+  border-bottom: 0.75px dashed #627eb3;
+}
+
+#table-matches tbody tr:hover {
+  background-color: #4b6088;
+}
+
+#table-matches tbody tr {
+  cursor: pointer;
+}
+
+#table-matches td:first-child {
+  padding-right: 2.25rem;
+}
+
+#table-matches td:last-child {
+  padding-right: 2rem;
+}
+
+#table-matches td {
+  padding: 0.15rem;
+}
+
+ul.directions {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+
+ul.directions:first-child {
+  padding-bottom: 0.75rem;
+}
+
+.fa-solid {
+  color: #a4df57;
+}
+
+#text {
+  padding-top: 2rem;
+}
+
+text {
+  font: bold 48px monospace;
+}
+
+.enter {
+  fill: green;
+}
+
+.update {
+  fill: #333;
+}
+
+/* toggle switch: https://blog.teamtreehouse.com/css-toggle-switch */
+input {
+  cursor: pointer;
+  margin: 1rem auto;
+  position: relative;
+  width: 50px;
+  height: 20px;
+  border-radius: 20px;
+  border: 1px solid #afd3e2;
+  outline: none;
+  background-color: #383838;
+  -webkit-appearance: none;
+  transition: background 0.5s;
+}
+
+input::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  border: 1px solid #333;
+  height: 1.35rem;
+  width: 1.35rem;
+  background-color: white;
+  transition: left 0.5s;
+  box-shadow: rgba(0, 0, 0, 0.74) 2px 4px 8px;
+}
+
+input:checked {
+  background-color: #a0d9a6;
+  border: 1px solid #617a55;
+}
+
+input:checked::after {
+  left: 70%;
+  border: 1px solid #617a55;
+}
+
+.toggle {
+  display: inline-flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.toggle-text {
+  margin-left: 0.75rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 0.9em;
+  color: #a4df57;
+}
+
+@media screen and (max-width: 1100px) {
+  .container {
+    flex-wrap: wrap;
+    gap: 0;
+    padding-top: 2rem;
+  }
+
+  .boxed-text {
+    border: 1px dashed rgba(247, 208, 96, 0.5);
+    margin-top: 2rem;
+    padding: 1rem;
+    width: max-content;
+  }
+
+  #table-container {
+    height: fit-content;
+    max-height: 350px;
+    overflow-y: auto;
+    margin-top: 1rem;
+    padding-bottom: 2rem;
+    display: inline-block;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  /* add horizontal scroll on globe */
+}

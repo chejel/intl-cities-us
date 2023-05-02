@@ -1,0 +1,806 @@
+us_city,state_name,us_city_lat,us_city_long,intl_city,country,city_lat,city_long,continent
+Dublin,Arizona,32.8961754,-109.8342483,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Valencia,Arizona,33.3794861,-112.5840544,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Buenos Aires,Arizona,31.5212005,-111.6573325,Buenos Aires,Argentina,-34.6075682,-58.4370894,Americas
+Manila,Arizona,34.9650237,-110.4134598,Manila,Philippines,14.5948914,120.9782618,Asia
+Santa Cruz,Arizona,32.0345181,-111.90707,Santa Cruz,Bolivia,-17.333333,-61.5,Americas
+Santiago,Arizona,33.6208746,-111.9743135,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Hacienda de Valencia,Arizona,33.4100474,-111.7343042,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Moscow,Arkansas,34.1464876,-91.7951318,Moscow,Russia,55.7504461,37.6174943,Europe
+Warsaw,Arkansas,34.9523104,-92.1551479,Warsaw,Poland,52.2319581,21.0067249,Europe
+Cairo,Arkansas,33.2201301,-92.8698841,Cairo,Egypt,30.0443879,31.2357257,Africa
+Damascus,Arkansas,33.2623502,-93.0182198,Damascus,Syria,33.5130695,36.3095814,Asia
+Mandalay,Arkansas,35.7792424,-90.2359303,Mandalay,Myanmar,21.9812746,96.082375,Asia
+New London,Arkansas,33.1884591,-92.3393087,London,UK,51.5073359,-0.12765,Europe
+Prague,Arkansas,34.2867635,-92.2807058,Prague,Czech Republic,50.0874654,14.4212535,Europe
+Barcelona,Arkansas,35.6206416,-94.4560487,Barcelona,Spain,41.3828939,2.1774322,Europe
+Dublin,Arkansas,35.3620297,-93.4712961,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Montreal,Arkansas,35.1175962,-94.3485478,Montreal,Canada,45.5031824,-73.5698065,Americas
+Paris,Arkansas,35.2920325,-93.7299173,Paris,France,48.8534951,2.3483915,Europe
+Berlin,Arkansas,33.0806804,-91.7631817,Berlin,Germany,52.5170365,13.3888599,Europe
+Damascus,Arkansas,35.367302,-92.4096005,Damascus,Syria,33.5130695,36.3095814,Asia
+Hamburg,Arkansas,33.2281757,-91.7976285,Hamburg,Germany,53.550341,10.000654,Europe
+London,Arkansas,35.328973,-93.2529553,London,UK,51.5073359,-0.12765,Europe
+Manila,Arkansas,35.8800733,-90.1670393,Manila,Philippines,14.5948914,120.9782618,Asia
+Melbourne,Arkansas,36.0595148,-91.9084819,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+Cairo,Alabama,34.8706418,-87.1444583,Cairo,Egypt,30.0443879,31.2357257,Africa
+Damascus,Alabama,31.3204471,-86.004387,Damascus,Syria,33.5130695,36.3095814,Asia
+Hamburg,Alabama,32.5279114,-87.2863861,Hamburg,Germany,53.550341,10.000654,Europe
+London,Alabama,31.2976707,-87.0877517,London,UK,51.5073359,-0.12765,Europe
+Madrid,Alabama,31.0357372,-85.3932663,Madrid,Spain,40.4167047,-3.7035825,Europe
+Moscow,Alabama,33.8698295,-88.1028093,Moscow,Russia,55.7504461,37.6174943,Europe
+Roosevelt-Cairo Village,Alabama,33.4462193,-86.9183253,Cairo,Egypt,30.0443879,31.2357257,Africa
+Hamburg,Alabama,31.9759808,-87.0355402,Hamburg,Germany,53.550341,10.000654,Europe
+Lagos del Sol,Alabama,32.2604191,-86.3483024,Lagos,Nigeria,6.4550575,3.3941795,Africa
+Manila,Alabama,32.448469,-86.9210985,Manila,Philippines,14.5948914,120.9782618,Asia
+Moscow,Alabama,32.437916800000004,-87.9961285,Moscow,Russia,55.7504461,37.6174943,Europe
+Warsaw,Alabama,32.9376282,-88.2030841,Warsaw,Poland,52.2319581,21.0067249,Europe
+Dublin,Alabama,32.0320936,-86.1591276,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Berlin,Alabama,32.2593067,-87.0083208,Berlin,Germany,52.5170365,13.3888599,Europe
+Leon,Alabama,31.5576619,-86.3927388,Leon,Mexico,21.1218598,-101.6825081,Americas
+London,Alabama,32.2731979,-86.0502371,London,UK,51.5073359,-0.12765,Europe
+Manila,Alabama,31.5084952,-87.7230502,Manila,Philippines,14.5948914,120.9782618,Asia
+Osaka,Alabama,31.0637904,-87.2238626,Osaka,Japan,34.661629000000005,135.49992679245517,Asia
+Shanghai,Alabama,34.8500868,-87.0850116,Shanghai,China,31.2323437,121.4691024,Asia
+Vienna,Alabama,33.0187374,-88.1919732,Vienna,Austria,48.2083537,16.3725042,Europe
+Alexandria,Alabama,33.7739892,-85.885523,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Berlin,Alabama,34.1814863,-86.7422202,Berlin,Germany,52.5170365,13.3888599,Europe
+Damascus,Alabama,31.1729526,-86.8569087,Damascus,Syria,33.5130695,36.3095814,Asia
+Rome,Alabama,31.1418423,-86.6688472,Rome,Italy,41.8933203,12.4829321,Europe
+New London,Alabama,33.4817729,-86.3594235,London,UK,51.5073359,-0.12765,Europe
+Leon,Colorado,39.384706,-107.099215,Leon,Mexico,21.1218598,-101.6825081,Americas
+Saint Petersburg,Colorado,40.5555449,-102.8171442,Saint Petersburg,Russia,59.938732,30.316229,Europe
+Manila,Colorado,39.7563749,-104.5224634,Manila,Philippines,14.5948914,120.9782618,Asia
+Adelaide,Colorado,38.5599955,-105.0908167,Adelaide,Australia,-34.9281805,138.5999312,Oceania
+Delhi,Colorado,37.6422351,-104.0180174,Delhi,India,28.6517178,77.2219388,Asia
+Kobe,Colorado,39.129436,-106.314746,Kobe,Japan,34.6932379,135.1943764,Asia
+Berlin,Connecticut,41.621488,-72.7456519,Berlin,Germany,52.5170365,13.3888599,Europe
+East Berlin,Connecticut,41.6184324,-72.7137063,Berlin,Germany,52.5170365,13.3888599,Europe
+East New London,Connecticut,41.3664872,-72.0992432,London,UK,51.5073359,-0.12765,Europe
+Hamburg,Connecticut,41.3845428,-72.3500836,Hamburg,Germany,53.550341,10.000654,Europe
+New London,Connecticut,41.3556539,-72.0995209,London,UK,51.5073359,-0.12765,Europe
+Perth,Delaware,39.8037236,-75.5238111,Perth,Australia,-31.9558964,115.8605801,Oceania
+Dublin Hill,Delaware,38.7531692,-75.6535398,Dublin,Ireland,53.3498006,-6.2602964,Europe
+London Village,Delaware,39.0695571,-75.5307571,London,UK,51.5073359,-0.12765,Europe
+Paris Villa,Delaware,39.0648349,-75.5288126,Paris,France,48.8534951,2.3483915,Europe
+Hamburg Farms,California,36.8793932,-120.7637961,Hamburg,Germany,53.550341,10.000654,Europe
+Johannesburg,California,35.3727406,-117.6347823,Johannesburg,South Africa,-26.205,28.049722,Africa
+Leon,California,34.55805,-117.3064348,Leon,Mexico,21.1218598,-101.6825081,Americas
+Paris,California,34.4719383,-118.1809079,Paris,France,48.8534951,2.3483915,Europe
+Hamburg,California,41.7829093,-123.0603186,Hamburg,Germany,53.550341,10.000654,Europe
+De Leon Springs,Florida,29.1194268,-81.3514536,Leon,Mexico,21.1218598,-101.6825081,Americas
+De Leon Springs Heights,Florida,29.1402597,-81.3197859,Leon,Mexico,21.1218598,-101.6825081,Americas
+Melbourne Beach,Florida,28.0683496,-80.5603303,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+Melbourne Village,Florida,28.0852939,-80.6664436,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+New Berlin,Florida,30.3985726,-81.5525919,Berlin,Germany,52.5170365,13.3888599,Europe
+Ponce de Leon,Florida,30.7229671,-85.9374357,Leon,Mexico,21.1218598,-101.6825081,Americas
+Saint Petersburg,Florida,27.7708606,-82.6792661,Saint Petersburg,Russia,59.938732,30.316229,Europe
+Sydney,Florida,27.9633563,-82.2073118,Sydney,Australia,-33.8698439,151.2082848,Oceania
+West Melbourne,Florida,28.0716832,-80.6533878,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+Melbourne,Florida,28.0836269,-80.6081089,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+Hamburg,Florida,30.5657612,-83.5268196,Hamburg,Germany,53.550341,10.000654,Europe
+Leon Hamilton Place,Florida,25.5215011,-81.2059104,Leon,Mexico,21.1218598,-101.6825081,Americas
+Cairo,Florida,30.3049195,-85.4771455,Cairo,Egypt,30.0443879,31.2357257,Africa
+Dublin,Florida,28.7894369,-81.6267408,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Port Leon,Florida,30.1310386,-84.1948928,Leon,Mexico,21.1218598,-101.6825081,Americas
+Mandalay,Florida,30.1238191,-83.9665502,Mandalay,Myanmar,21.9812746,96.082375,Asia
+Melbourne Shores,Florida,27.9627979,-80.5094969,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+Melbourne Gardens,Florida,28.0908493,-80.6769993,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+Mecca,Florida,28.0211295,-82.7409342,Mecca,Saudi Arabia,21.420847,39.826869,Asia
+Dublin,Georgia,32.5404447,-82.903754,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Milan,Georgia,32.0173996,-83.0626489,Milan,Italy,45.4641943,9.1896346,Europe
+Old Damascus,Georgia,31.3074013,-84.7371415,Damascus,Syria,33.5130695,36.3095814,Asia
+Pretoria,Georgia,31.5043413,-84.3171321,Pretoria,South Africa,-25.7459277,28.1879101,Africa
+Vienna,Georgia,32.0915577,-83.7954518,Vienna,Austria,48.2083537,16.3725042,Europe
+Budapest,Georgia,33.7151066,-85.2180055,Budapest,Hungary,47.48138955,19.14609412691246,Europe
+Damascus,Georgia,34.5500858,-84.9357761,Damascus,Syria,33.5130695,36.3095814,Asia
+East Dublin,Georgia,32.5482221,-82.8718084,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Harbin,Georgia,33.9476075,-83.8540671,Harbin,China,45.8016143,126.5287796,Asia
+Montevideo,Georgia,34.2723289,-82.8218038,Montevideo,Uruguay,-34.9058916,-56.1913095,Americas
+Pretoria,Georgia,32.4099032,-81.7303887,Pretoria,South Africa,-25.7459277,28.1879101,Africa
+Warsaw,Georgia,31.5899409,-81.4951072,Warsaw,Poland,52.2319581,21.0067249,Europe
+Warsaw,Georgia,34.0181557,-84.190196,Warsaw,Poland,52.2319581,21.0067249,Europe
+Adelaide,Georgia,31.2668484,-84.1485153,Adelaide,Australia,-34.9281805,138.5999312,Oceania
+New Rome,Georgia,34.2173169,-85.1752284,Rome,Italy,41.8933203,12.4829321,Europe
+North Rome,Georgia,34.2634267,-85.1582834,Rome,Italy,41.8933203,12.4829321,Europe
+West Rome,Georgia,34.2792595,-85.2260635,Rome,Italy,41.8933203,12.4829321,Europe
+Berlin,Georgia,31.0682441,-83.623778,Berlin,Germany,52.5170365,13.3888599,Europe
+Cairo,Georgia,30.8774132,-84.2012897,Cairo,Egypt,30.0443879,31.2357257,Africa
+Damascus,Georgia,31.2990682,-84.7188077,Damascus,Syria,33.5130695,36.3095814,Asia
+Delhi,Georgia,33.9137324,-82.6740257,Delhi,India,28.6517178,77.2219388,Asia
+Rome,Georgia,34.257038,-85.1646726,Rome,Italy,41.8933203,12.4829321,Europe
+Montreal,Georgia,33.8242707,-84.2365878,Montreal,Canada,45.5031824,-73.5698065,Americas
+Leon,Idaho,46.5318297,-117.040161,Leon,Mexico,21.1218598,-101.6825081,Americas
+Paris,Idaho,42.2271494,-111.4010403,Paris,France,48.8534951,2.3483915,Europe
+Adelaide,Idaho,42.8071301,-113.7219607,Adelaide,Australia,-34.9281805,138.5999312,Oceania
+Moscow,Idaho,46.7323875,-117.0001651,Moscow,Russia,55.7504461,37.6174943,Europe
+Berlin,Illinois,39.7589387,-89.9031635,Berlin,Germany,52.5170365,13.3888599,Europe
+Bogota,Illinois,38.9183782,-88.2400414,Bogota,Colombia,4.6529539,-74.0835643,Americas
+Brussels,Illinois,38.9494939,-90.5887314,Brussels,Belgium,50.8465573,4.351697,Europe
+Delhi,Illinois,39.0453249,-90.2559455,Delhi,India,28.6517178,77.2219388,Asia
+Hamburg,Illinois,39.230048,-90.7176242,Hamburg,Germany,53.550341,10.000654,Europe
+Leon Corners,Illinois,41.5941988,-89.9203887,Leon,Mexico,21.1218598,-101.6825081,Americas
+Lima,Illinois,40.1775458,-91.378483,Lima,Peru,-12.0621065,-77.0365256,Americas
+London Mills,Illinois,40.7105947,-90.2662355,London,UK,51.5073359,-0.12765,Europe
+Milan,Illinois,41.453089,-90.5720803,Milan,Italy,45.4641943,9.1896346,Europe
+New Berlin,Illinois,39.7253276,-89.9106632,Berlin,Germany,52.5170365,13.3888599,Europe
+Paris,Illinois,39.611146,-87.6961374,Paris,France,48.8534951,2.3483915,Europe
+Rome,Illinois,40.8830925,-89.502592,Rome,Italy,41.8933203,12.4829321,Europe
+South Rome,Illinois,40.8497592,-89.5375936,Rome,Italy,41.8933203,12.4829321,Europe
+Vienna,Illinois,37.4153295,-88.8978435,Vienna,Austria,48.2083537,16.3725042,Europe
+Warsaw,Illinois,40.359211,-91.4345978,Warsaw,Poland,52.2319581,21.0067249,Europe
+West Vienna,Illinois,37.4286627,-88.9695141,Vienna,Austria,48.2083537,16.3725042,Europe
+Shanghai City,Illinois,41.0508705,-90.4967994,Shanghai,China,31.2323437,121.4691024,Asia
+Brisbane,Illinois,41.4925319,-87.9578313,Brisbane,Australia,-27.4689682,153.0234991,Oceania
+Damascus,Illinois,42.3722378,-89.7062292,Damascus,Syria,33.5130695,36.3095814,Asia
+Hamburg,Illinois,38.8661576,-89.2747957,Hamburg,Germany,53.550341,10.000654,Europe
+Hamburg Landing,Illinois,37.4064386,-89.4123126,Hamburg,Germany,53.550341,10.000654,Europe
+Moscow,Illinois,37.4114401,-89.0525737,Moscow,Russia,55.7504461,37.6174943,Europe
+Toronto,Illinois,39.7139399,-89.6298197,Toronto,Canada,43.6534817,-79.3839347,Americas
+Cairo,Illinois,37.0053293,-89.1764608,Cairo,Egypt,30.0443879,31.2357257,Africa
+Cairo Junction,Illinois,37.0408845,-89.19174,Cairo,Egypt,30.0443879,31.2357257,Africa
+Alexandria,Indiana,40.2628184,-85.675809,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Algiers,Indiana,38.4872721,-87.1750093,Algiers,Algeria,36.7753606,3.0601882,Africa
+Cairo,Indiana,40.5408685,-86.9247344,Cairo,Egypt,30.0443879,31.2357257,Africa
+Hamburg,Indiana,38.3833997,-85.7674642,Hamburg,Germany,53.550341,10.000654,Europe
+London,Indiana,39.625602,-85.9202594,London,UK,51.5073359,-0.12765,Europe
+London Heights,Indiana,39.6286574,-85.9144259,London,UK,51.5073359,-0.12765,Europe
+Mecca,Indiana,39.7272609,-87.330572,Mecca,Saudi Arabia,21.420847,39.826869,Asia
+Milan,Indiana,39.1211656,-85.1313464,Milan,Italy,45.4641943,9.1896346,Europe
+Milan Center,Indiana,41.1442159,-84.9460771,Milan,Italy,45.4641943,9.1896346,Europe
+Moscow,Indiana,39.4853262,-85.5566395,Moscow,Russia,55.7504461,37.6174943,Europe
+New London,Indiana,40.4433708,-86.2713848,London,UK,51.5073359,-0.12765,Europe
+New Paris,Indiana,41.5003269,-85.8280485,Paris,France,48.8534951,2.3483915,Europe
+Old Milan,Indiana,39.146443,-85.132458,Milan,Italy,45.4641943,9.1896346,Europe
+Paris,Indiana,38.8242234,-85.6338542,Paris,France,48.8534951,2.3483915,Europe
+Paris Crossing,Indiana,38.829501,-85.6480215,Paris,France,48.8534951,2.3483915,Europe
+Perth,Indiana,39.5930962,-87.1619596,Perth,Australia,-31.9558964,115.8605801,Oceania
+Rome City,Indiana,41.4961609,-85.3766454,Rome,Italy,41.8933203,12.4829321,Europe
+Saint Leon,Indiana,39.2919974,-84.9580121,Leon,Mexico,21.1218598,-101.6825081,Americas
+Shanghai,Indiana,40.4461482,-86.3283298,Shanghai,China,31.2323437,121.4691024,Asia
+Vienna,Indiana,38.6489481,-85.7688559,Vienna,Austria,48.2083537,16.3725042,Europe
+Warsaw,Indiana,41.2381001,-85.8530469,Warsaw,Poland,52.2319581,21.0067249,Europe
+Hamburg,Indiana,39.3808834,-85.2507964,Hamburg,Germany,53.550341,10.000654,Europe
+Rome,Indiana,37.9233942,-86.5235905,Rome,Italy,41.8933203,12.4829321,Europe
+Dublin,Indiana,39.8122686,-85.2088541,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Toronto,Indiana,39.7817032,-87.4955747,Toronto,Canada,43.6534817,-79.3839347,Americas
+Calcutta,Indiana,39.6042091,-87.0694582,Calcutta,India,22.5726459,88.3638953,Asia
+Cairo,Iowa,41.1836391,-91.3273758,Cairo,Egypt,30.0443879,31.2357257,Africa
+Delhi,Iowa,42.4297143,-91.3309789,Delhi,India,28.6517178,77.2219388,Asia
+Hamburg,Iowa,40.6044458,-95.6577711,Hamburg,Germany,53.550341,10.000654,Europe
+Leon,Iowa,40.739724,-93.7477217,Leon,Mexico,21.1218598,-101.6825081,Americas
+Madrid,Iowa,41.8766526,-93.8232813,Madrid,Spain,40.4167047,-3.7035825,Europe
+Melbourne,Iowa,41.9413772,-93.1032569,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+New London,Iowa,40.9269776,-91.3995992,London,UK,51.5073359,-0.12765,Europe
+New Vienna,Iowa,42.5480503,-91.1143005,Vienna,Austria,48.2083537,16.3725042,Europe
+Paris,Iowa,40.7886294,-92.5924118,Paris,France,48.8534951,2.3483915,Europe
+Rome,Iowa,40.9814147,-91.682387,Rome,Italy,41.8933203,12.4829321,Europe
+Santiago,Iowa,41.7099884,-93.3749316,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Toronto,Iowa,41.9050213,-90.8640346,Toronto,Canada,43.6534817,-79.3839347,Americas
+Tripoli,Iowa,42.8080363,-92.2582341,Tripoli,Libya,32.896672,13.1777923,Africa
+Lima,Iowa,42.8683141,-91.742937,Lima,Peru,-12.0621065,-77.0365256,Americas
+Moscow,Iowa,41.5750257,-91.082653,Moscow,Russia,55.7504461,37.6174943,Europe
+Old Tripoli,Iowa,42.8260914,-92.2654562,Tripoli,Libya,32.896672,13.1777923,Africa
+Berlin,Iowa,42.4185929,-93.1604802,Berlin,Germany,52.5170365,13.3888599,Europe
+Paris,Iowa,42.2386036,-91.5790568,Paris,France,48.8534951,2.3483915,Europe
+Milan,Kansas,37.2597433,-97.6739404,Milan,Italy,45.4641943,9.1896346,Europe
+Perth,Kansas,37.1747453,-97.5053256,Perth,Australia,-31.9558964,115.8605801,Oceania
+Rome,Kansas,37.1603485,-97.3913998,Rome,Italy,41.8933203,12.4829321,Europe
+Moscow,Kansas,37.3236349,-101.2057164,Moscow,Russia,55.7504461,37.6174943,Europe
+Agra,Kansas,39.7616776,-99.1192544,Agra,India,27.1752554,78.0098161,Asia
+Cairo,Kansas,37.6500181,-98.5545275,Cairo,Egypt,30.0443879,31.2357257,Africa
+Mecca Acres,Kansas,37.6755715,-97.1464297,Mecca,Saudi Arabia,21.420847,39.826869,Asia
+Berlin,Kansas,37.9214262,-94.896079,Berlin,Germany,52.5170365,13.3888599,Europe
+Toronto,Kansas,37.7989253,-95.9491562,Toronto,Canada,43.6534817,-79.3839347,Americas
+Leon,Kansas,37.6902964,-96.7822508,Leon,Mexico,21.1218598,-101.6825081,Americas
+Hamburg,Kansas,38.1255698,-99.1703834,Hamburg,Germany,53.550341,10.000654,Europe
+Valencia,Kansas,39.0786108,-95.8763761,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Alexandria,Kentucky,38.9595078,-84.3879946,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Berlin,Kentucky,38.6947935,-84.1624325,Berlin,Germany,52.5170365,13.3888599,Europe
+Cairo,Kentucky,37.7080985,-87.6458465,Cairo,Egypt,30.0443879,31.2357257,Africa
+Dublin,Kentucky,36.7253355,-88.8022775,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Melbourne,Kentucky,39.0297843,-84.3663279,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+Moscow,Kentucky,36.6070046,-89.0361754,Moscow,Russia,55.7504461,37.6174943,Europe
+Paris,Kentucky,38.2097987,-84.2529869,Paris,France,48.8534951,2.3483915,Europe
+Rome,Kentucky,37.7211585,-87.1808315,Rome,Italy,41.8933203,12.4829321,Europe
+Warsaw,Kentucky,38.7833963,-84.9016151,Warsaw,Poland,52.2319581,21.0067249,Europe
+Leon,Kentucky,38.2878593,-82.976836,Leon,Mexico,21.1218598,-101.6825081,Americas
+Madrid,Kentucky,37.6122795,-86.342198,Madrid,Spain,40.4167047,-3.7035825,Europe
+Manila,Kentucky,37.8428699,-82.9154425,Manila,Philippines,14.5948914,120.9782618,Asia
+London,Kentucky,37.1289771,-84.0832646,London,UK,51.5073359,-0.12765,Europe
+Vienna,Louisiana,32.5909817,-92.6479275,Vienna,Austria,48.2083537,16.3725042,Europe
+Warsaw Ferry,Louisiana,32.2976474,-91.527064,Warsaw,Poland,52.2319581,21.0067249,Europe
+Barcelona,Louisiana,31.852661,-91.4228949,Barcelona,Spain,41.3828939,2.1774322,Europe
+Delhi,Louisiana,32.4576421,-91.4931736,Delhi,India,28.6517178,77.2219388,Asia
+Mandalay,Louisiana,29.5660477,-90.7712028,Mandalay,Myanmar,21.9812746,96.082375,Asia
+Warsaw Landing,Louisiana,32.2951475,-91.5295641,Warsaw,Poland,52.2319581,21.0067249,Europe
+Alexandria Junction,Louisiana,31.2910163,-92.4434701,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Vienna Bend,Louisiana,31.7323868,-93.0409957,Vienna,Austria,48.2083537,16.3725042,Europe
+Rome,Louisiana,30.3771384,-90.5506453,Rome,Italy,41.8933203,12.4829321,Europe
+Algiers,Louisiana,29.9449262,-90.0467379,Algiers,Algeria,36.7753606,3.0601882,Africa
+Copenhagen,Louisiana,32.0237703,-92.0390231,Copenhagen,Denmark,55.6867243,12.5700724,Europe
+Hamburg,Louisiana,31.030742,-91.9315098,Hamburg,Germany,53.550341,10.000654,Europe
+Warsaw Landing,Louisiana,30.384916,-90.5534231,Warsaw,Poland,52.2319581,21.0067249,Europe
+Monterrey Park,Louisiana,30.4910229,-91.0859383,Monterrey,Mexico,25.6802019,-100.315258,Americas
+Belgrade Lakes,Maine,44.526454,-69.8869966,Belgrade,Serbia,44.8178131,20.4568974,Europe
+Damascus,Maine,44.8122903,-69.0805987,Damascus,Syria,33.5130695,36.3095814,Asia
+Madrid,Maine,44.8645016,-70.4620115,Madrid,Spain,40.4167047,-3.7035825,Europe
+Moscow,Maine,45.0706113,-69.8911705,Moscow,Russia,55.7504461,37.6174943,Europe
+North Belgrade,Maine,44.5189547,-69.7922711,Belgrade,Serbia,44.8178131,20.4568974,Europe
+North Belgrade Station,Maine,44.5058994,-69.7783815,Belgrade,Serbia,44.8178131,20.4568974,Europe
+North Paris,Maine,44.3375679,-70.5292284,Paris,France,48.8534951,2.3483915,Europe
+Paris,Maine,44.2597917,-70.5006152,Paris,France,48.8534951,2.3483915,Europe
+Rome,Maine,44.585064,-69.8692195,Rome,Italy,41.8933203,12.4829321,Europe
+Rome Corner,Maine,44.5722862,-69.9033871,Rome,Italy,41.8933203,12.4829321,Europe
+South Paris,Maine,44.223681,-70.5133929,Paris,France,48.8534951,2.3483915,Europe
+Stockholm,Maine,47.0422642,-68.1394756,Stockholm,Sweden,59.3251172,18.0710935,Europe
+Vienna,Maine,44.5333976,-69.9847779,Vienna,Austria,48.2083537,16.3725042,Europe
+West Paris,Maine,44.3242347,-70.5739515,Paris,France,48.8534951,2.3483915,Europe
+Belgrade,Maine,44.4472889,-69.832549,Belgrade,Serbia,44.8178131,20.4568974,Europe
+East Madrid,Maine,44.9106121,-70.3842337,Madrid,Spain,40.4167047,-3.7035825,Europe
+Madrid Junction,Maine,44.8697792,-70.399789,Madrid,Spain,40.4167047,-3.7035825,Europe
+Berlin,Maryland,38.3226154,-75.2176892,Berlin,Germany,52.5170365,13.3888599,Europe
+Damascus,Maryland,39.2884381,-77.2038717,Damascus,Syria,33.5130695,36.3095814,Asia
+Montevideo,Maryland,39.1626078,-76.7669159,Montevideo,Uruguay,-34.9058916,-56.1913095,Americas
+New London,Maryland,39.422047,-77.2530383,London,UK,51.5073359,-0.12765,Europe
+Monterrey Village,Maryland,39.0434425,-77.0574777,Monterrey,Mexico,25.6802019,-100.315258,Americas
+Paris,Maryland,38.7026181,-76.5827365,Paris,France,48.8534951,2.3483915,Europe
+Santo Domingo,Maryland,38.5115047,-75.7227096,Santo Domingo,Dominican Republic,18.4801972,-69.942111,Americas
+Vienna,Maryland,38.4848393,-75.8246563,Vienna,Austria,48.2083537,16.3725042,Europe
+Dublin,Maryland,39.6509393,-76.2666233,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Berlin,Massachusetts,42.381204,-71.6370121,Berlin,Germany,52.5170365,13.3888599,Europe
+South Berlin,Massachusetts,42.3598154,-71.6286785,Berlin,Germany,52.5170365,13.3888599,Europe
+West Berlin,Massachusetts,42.3881483,-71.6606239,Berlin,Germany,52.5170365,13.3888599,Europe
+East Berlin,Massachusetts,42.3898153,-71.5995111,Berlin,Germany,52.5170365,13.3888599,Europe
+Delhi Mills,Michigan,42.3303146,-83.8110536,Delhi,India,28.6517178,77.2219388,Asia
+East Paris,Michigan,42.9100291,-85.5683584,Paris,France,48.8534951,2.3483915,Europe
+Hamburg,Michigan,42.4486456,-83.8016097,Hamburg,Germany,53.550341,10.000654,Europe
+Johannesburg,Michigan,44.9855663,-84.4558515,Johannesburg,South Africa,-26.205,28.049722,Africa
+Lima Center,Michigan,42.2958701,-83.9574453,Lima,Peru,-12.0621065,-77.0365256,Americas
+London,Michigan,42.0200442,-83.6132701,London,UK,51.5073359,-0.12765,Europe
+Milan,Michigan,42.0853204,-83.6824384,Milan,Italy,45.4641943,9.1896346,Europe
+Moscow,Michigan,42.0494881,-84.5099512,Moscow,Russia,55.7504461,37.6174943,Europe
+Rome Center,Michigan,41.9436569,-84.1877224,Rome,Italy,41.8933203,12.4829321,Europe
+Shanghai Corners,Michigan,42.0333769,-86.3283517,Shanghai,China,31.2323437,121.4691024,Asia
+Alexandria,Minnesota,45.8852397,-95.3775379,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Belgrade,Minnesota,45.4530207,-95.0044608,Belgrade,Serbia,44.8178131,20.4568974,Europe
+Bombay,Minnesota,44.2835757,-92.8915907,Bombay,India,19.0785451,72.878176,Asia
+Delhi,Minnesota,44.5991256,-95.211113,Delhi,India,28.6517178,77.2219388,Asia
+Hamburg,Minnesota,44.7332953,-93.9671917,Hamburg,Germany,53.550341,10.000654,Europe
+London,Minnesota,43.5260729,-93.0626967,London,UK,51.5073359,-0.12765,Europe
+Milan,Minnesota,45.1085708,-95.9133706,Milan,Italy,45.4641943,9.1896346,Europe
+Montevideo,Minnesota,44.942457,-95.7236371,Montevideo,Uruguay,-34.9058916,-56.1913095,Americas
+New London,Minnesota,45.3010756,-94.9441773,London,UK,51.5073359,-0.12765,Europe
+New Munich,Minnesota,45.6302427,-94.7536231,Munich,Germany,48.1371079,11.5753822,Europe
+New Prague,Minnesota,44.5432966,-93.5760652,Prague,Czech Republic,50.0874654,14.4212535,Europe
+New Rome,Minnesota,44.5432973,-94.0924719,Rome,Italy,41.8933203,12.4829321,Europe
+Santiago,Minnesota,45.5391335,-93.8199742,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Stockholm,Minnesota,45.036352,-94.2210911,Stockholm,Sweden,59.3251172,18.0710935,Europe
+London,Minnesota,47.2027037,-91.5696169,London,UK,51.5073359,-0.12765,Europe
+Moscow,Minnesota,43.7071833,-93.0982538,Moscow,Russia,55.7504461,37.6174943,Europe
+Perth,Minnesota,44.0796839,-94.3588527,Perth,Australia,-31.9558964,115.8605801,Oceania
+Belgrade,Minnesota,47.5310367,-92.3740685,Belgrade,Serbia,44.8178131,20.4568974,Europe
+Cairo,Mississippi,34.726759,-88.3481018,Cairo,Egypt,30.0443879,31.2357257,Africa
+Dublin,Mississippi,34.0723334,-90.490651,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Moscow,Mississippi,32.710135,-88.8000503,Moscow,Russia,55.7504461,37.6174943,Europe
+Paris,Mississippi,34.1787205,-89.4598017,Paris,France,48.8534951,2.3483915,Europe
+Quito,Mississippi,33.4387321,-90.3011955,Quito,Ecuador,-0.2201641,-78.5123274,Americas
+Rome,Mississippi,33.9631682,-90.478427,Rome,Italy,41.8933203,12.4829321,Europe
+Warsaw,Mississippi,34.83093,-89.6861952,Warsaw,Poland,52.2319581,21.0067249,Europe
+Rome,Mississippi,33.1045716,-89.2400681,Rome,Italy,41.8933203,12.4829321,Europe
+Damascus,Mississippi,32.5554169,-89.3883995,Damascus,Syria,33.5130695,36.3095814,Asia
+Damascus,Mississippi,32.6576363,-88.8339398,Damascus,Syria,33.5130695,36.3095814,Asia
+Warsaw,Mississippi,33.1942881,-90.8651001,Warsaw,Poland,52.2319581,21.0067249,Europe
+Hamburg,Mississippi,31.5787781,-91.0667711,Hamburg,Germany,53.550341,10.000654,Europe
+Perth,Mississippi,31.6593332,-90.8678792,Perth,Australia,-31.9558964,115.8605801,Oceania
+Cairo,Mississippi,34.3778814,-89.0431201,Cairo,Egypt,30.0443879,31.2357257,Africa
+Cairo,Mississippi,33.6701185,-88.8975562,Cairo,Egypt,30.0443879,31.2357257,Africa
+Berlin,Missouri,40.0536091,-94.3510659,Berlin,Germany,52.5170365,13.3888599,Europe
+Mecca,Missouri,39.4841652,-94.523008,Mecca,Saudi Arabia,21.420847,39.826869,Asia
+Melbourne,Missouri,40.1416753,-93.7877233,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+Milan,Missouri,40.2022408,-93.125209,Milan,Italy,45.4641943,9.1896346,Europe
+Montreal,Missouri,37.9689254,-92.5921247,Montreal,Canada,45.5031824,-73.5698065,Americas
+New London,Missouri,39.5853222,-91.4009835,London,UK,51.5073359,-0.12765,Europe
+New Madrid,Missouri,36.5864488,-89.5278547,Madrid,Spain,40.4167047,-3.7035825,Europe
+Paris,Missouri,39.4808721,-92.0012811,Paris,France,48.8534951,2.3483915,Europe
+Paris Springs,Missouri,37.1942187,-93.6793697,Paris,France,48.8534951,2.3483915,Europe
+Ponce de Leon,Missouri,36.8758908,-93.3515758,Leon,Mexico,21.1218598,-101.6825081,Americas
+Vienna,Missouri,38.1867085,-91.947112,Vienna,Austria,48.2083537,16.3725042,Europe
+Warsaw,Missouri,38.2430811,-93.3818711,Warsaw,Poland,52.2319581,21.0067249,Europe
+Cairo,Missouri,39.5119787,-92.4404603,Cairo,Egypt,30.0443879,31.2357257,Africa
+New Hamburg,Missouri,37.1264394,-89.5934198,Hamburg,Germany,53.550341,10.000654,Europe
+Alexandria,Missouri,40.3594887,-91.455432,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Moscow Mills,Missouri,38.9478267,-90.9181916,Moscow,Russia,55.7504461,37.6174943,Europe
+Delhi,Missouri,38.1283795,-91.3476485,Delhi,India,28.6517178,77.2219388,Asia
+Moscow,Missouri,39.1663923,-94.541899,Moscow,Russia,55.7504461,37.6174943,Europe
+London,Missouri,40.4449952,-95.2349777,London,UK,51.5073359,-0.12765,Europe
+Manila,Missouri,38.5511296,-93.3363182,Manila,Philippines,14.5948914,120.9782618,Asia
+Santiago,Missouri,38.426965,-93.4568747,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Toronto,Missouri,38.0036476,-92.5254576,Toronto,Canada,43.6534817,-79.3839347,Americas
+Belgrade,Missouri,37.7867146,-90.8492967,Belgrade,Serbia,44.8178131,20.4568974,Europe
+Budapest,Missouri,36.7689441,-90.710953,Budapest,Hungary,47.48138955,19.14609412691246,Europe
+Rome,Missouri,36.841446,-92.7735032,Rome,Italy,41.8933203,12.4829321,Europe
+Hamburg,Missouri,38.6697751,-90.7317948,Hamburg,Germany,53.550341,10.000654,Europe
+Belgrade,Montana,45.7760403,-111.1768973,Belgrade,Serbia,44.8178131,20.4568974,Europe
+Belgrade Junction,Montana,45.7796508,-111.2799571,Belgrade,Serbia,44.8178131,20.4568974,Europe
+Lima,Montana,44.6368563,-112.5919506,Lima,Peru,-12.0621065,-77.0365256,Americas
+Alexandria,Nebraska,40.2452794,-97.3892076,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Belgrade,Nebraska,41.4730692,-98.0683949,Belgrade,Serbia,44.8178131,20.4568974,Europe
+Cairo,Nebraska,41.0011236,-98.6075718,Cairo,Egypt,30.0443879,31.2357257,Africa
+Madrid,Nebraska,40.8499965,-101.5435011,Madrid,Spain,40.4167047,-3.7035825,Europe
+Prague,Nebraska,41.3102835,-96.8083629,Prague,Czech Republic,50.0874654,14.4212535,Europe
+Perth,Nevada,40.1287984,-118.515148,Perth,Australia,-31.9558964,115.8605801,Oceania
+Barcelona Summit,Nevada,38.6507658,-116.958136,Barcelona,Spain,41.3828939,2.1774322,Europe
+Berlin,Nevada,38.8818713,-117.607602,Berlin,Germany,52.5170365,13.3888599,Europe
+Dublin,New Hampshire,42.9075823,-72.0625817,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Milan,New Hampshire,44.5733885,-71.185078,Milan,Italy,45.4641943,9.1896346,Europe
+West Milan,New Hampshire,44.5986649,-71.3042465,Milan,Italy,45.4641943,9.1896346,Europe
+South Alexandria,New Hampshire,43.5575741,-71.7948024,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Berlin,New Hampshire,44.4686696,-71.1850768,Berlin,Germany,52.5170365,13.3888599,Europe
+Tripoli Mill,New Hampshire,43.9981238,-71.5773002,Tripoli,Libya,32.896672,13.1777923,Africa
+Berlin,New Jersey,39.7912262,-74.9290536,Berlin,Germany,52.5170365,13.3888599,Europe
+Bogota,New Jersey,40.8762106,-74.0298621,Bogota,Colombia,4.6529539,-74.0835643,Americas
+East Berlin,New Jersey,39.7973373,-74.9151645,Berlin,Germany,52.5170365,13.3888599,Europe
+Hamburg,New Jersey,41.1534294,-74.5762713,Hamburg,Germany,53.550341,10.000654,Europe
+Mandalay,New Jersey,40.0153951,-74.0901377,Mandalay,Myanmar,21.9812746,96.082375,Asia
+Perth Amboy,New Jersey,40.5067723,-74.2654234,Perth,Australia,-31.9558964,115.8605801,Oceania
+Stockholm,New Jersey,41.0895413,-74.5171024,Stockholm,Sweden,59.3251172,18.0710935,Europe
+Vienna Gardens,New Jersey,39.5112282,-74.6223799,Vienna,Austria,48.2083537,16.3725042,Europe
+West Berlin,New Jersey,39.8087258,-74.9412765,Berlin,Germany,52.5170365,13.3888599,Europe
+Perth Amboy Junction,New Jersey,40.5981593,-74.2854247,Perth,Australia,-31.9558964,115.8605801,Oceania
+Berlin Heights,New Jersey,39.8131707,-74.8904416,Berlin,Germany,52.5170365,13.3888599,Europe
+Sofia,New Mexico,36.4516942,-103.8291315,Sofia,Bulgaria,42.6977028,23.3217359,Europe
+Leon,New Mexico,35.5711375,-107.600054,Leon,Mexico,21.1218598,-101.6825081,Americas
+Madrid,New Mexico,35.4067047,-106.1525226,Madrid,Spain,40.4167047,-3.7035825,Europe
+Rosario,New Mexico,35.4803138,-106.2275228,Rosario,Argentina,-32.9595004,-60.6615415,Americas
+Valencia,New Mexico,34.7994996,-106.7003035,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Milan,New Mexico,35.1697592,-107.890892,Milan,Italy,45.4641943,9.1896346,Europe
+La Puebla,New Mexico,35.9891906,-105.996411,Puebla,Mexico,18.833333,-98,Americas
+Santa Cruz,New Mexico,35.9922457,-106.0472452,Santa Cruz,Bolivia,-17.333333,-61.5,Americas
+Santo Domingo Pueblo,New Mexico,35.5147562,-106.3658588,Santo Domingo,Dominican Republic,18.4801972,-69.942111,Americas
+Alexandria Bay,New York,44.3358836,-75.9177309,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Alexandria Center,New York,44.3075516,-75.8760616,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Barcelona,New York,42.3403356,-79.5958808,Barcelona,Spain,41.3828939,2.1774322,Europe
+Berlin,New York,42.6931351,-73.3720549,Berlin,Germany,52.5170365,13.3888599,Europe
+Bombay,New York,44.9389348,-74.5676877,Bombay,India,19.0785451,72.878176,Asia
+Cairo,New York,42.2989749,-73.9984659,Cairo,Egypt,30.0443879,31.2357257,Africa
+Calcutta,New York,42.6328534,-74.6762582,Calcutta,India,22.5726459,88.3638953,Asia
+Center Berlin,New York,42.6609134,-73.3687211,Berlin,Germany,52.5170365,13.3888599,Europe
+Copenhagen,New York,43.8934013,-75.6735259,Copenhagen,Denmark,55.6867243,12.5700724,Europe
+Damascus,New York,42.0559135,-75.6101829,Damascus,Syria,33.5130695,36.3095814,Asia
+Delhi,New York,42.2781401,-74.9159946,Delhi,India,28.6517178,77.2219388,Asia
+Dublin,New York,42.9947859,-76.9221855,Dublin,Ireland,53.3498006,-6.2602964,Europe
+East Delhi,New York,42.2989728,-74.8787711,Delhi,India,28.6517178,77.2219388,Asia
+East Leon,New York,42.3472834,-78.9578149,Leon,Mexico,21.1218598,-101.6825081,Americas
+Hamburg,New York,42.2342543,-73.8501281,Hamburg,Germany,53.550341,10.000654,Europe
+Hamburg,New York,42.7158927,-78.8294768,Hamburg,Germany,53.550341,10.000654,Europe
+Leon,New York,42.2931163,-79.0164284,Leon,Mexico,21.1218598,-101.6825081,Americas
+Lima,New York,42.9047857,-77.611387,Lima,Peru,-12.0621065,-77.0365256,Americas
+Lock Berlin,New York,43.0789531,-76.9460762,Berlin,Germany,52.5170365,13.3888599,Europe
+Milan,New York,41.9534255,-73.7920752,Milan,Italy,45.4641943,9.1896346,Europe
+Moscow Hill,New York,42.7936816,-75.406006,Moscow,Russia,55.7504461,37.6174943,Europe
+New Berlin,New York,42.6242404,-75.33156,Berlin,Germany,52.5170365,13.3888599,Europe
+New Hamburg,New York,41.5884269,-73.9451379,Hamburg,Germany,53.550341,10.000654,Europe
+New London,New York,43.205347,-75.5876799,London,UK,51.5073359,-0.12765,Europe
+Paris,New York,43.0006253,-75.3137775,Paris,France,48.8534951,2.3483915,Europe
+Paris Station,New York,42.9634033,-75.3087774,Paris,France,48.8534951,2.3483915,Europe
+Perth,New York,43.017574,-74.1940203,Perth,Australia,-31.9558964,115.8605801,Oceania
+Point Stockholm,New York,42.1200575,-79.3175483,Stockholm,Sweden,59.3251172,18.0710935,Europe
+Rome,New York,43.2128473,-75.4557304,Rome,Italy,41.8933203,12.4829321,Europe
+Rome,New York,44.4406028,-73.6881949,Rome,Italy,41.8933203,12.4829321,Europe
+South Bombay,New York,44.8900482,-74.5543513,Bombay,India,19.0785451,72.878176,Asia
+South Cairo,New York,42.2770311,-73.9567979,Cairo,Egypt,30.0443879,31.2357257,Africa
+South New Berlin,New York,42.5295192,-75.3851753,Berlin,Germany,52.5170365,13.3888599,Europe
+South Warsaw,New York,42.7100614,-78.1302879,Warsaw,Poland,52.2319581,21.0067249,Europe
+Tripoli,New York,42.7389564,-75.962421,Tripoli,Libya,32.896672,13.1777923,Africa
+Vienna,New York,43.2395135,-75.7024065,Vienna,Austria,48.2083537,16.3725042,Europe
+Warsaw,New York,42.740061,-78.1327882,Warsaw,Poland,52.2319581,21.0067249,Europe
+West Perth,New York,43.0125737,-74.2698555,Perth,Australia,-31.9558964,115.8605801,Oceania
+Cairo Junction,New York,42.2531432,-73.9665207,Cairo,Egypt,30.0443879,31.2357257,Africa
+Tripoli,New York,43.3909042,-73.5795593,Tripoli,Libya,32.896672,13.1777923,Africa
+West Delhi,New York,42.2995281,-75.0082191,Delhi,India,28.6517178,77.2219388,Asia
+Madrid Springs,New York,44.7400594,-75.1435369,Madrid,Spain,40.4167047,-3.7035825,Europe
+North Stockholm,New York,44.7694996,-74.9346416,Stockholm,Sweden,59.3251172,18.0710935,Europe
+Stockholm Center,New York,44.7594994,-74.8315837,Stockholm,Sweden,59.3251172,18.0710935,Europe
+West Stockholm,New York,44.7136679,-74.9007513,Stockholm,Sweden,59.3251172,18.0710935,Europe
+Cairo,North Carolina,34.8845989,-79.932838,Cairo,Egypt,30.0443879,31.2357257,Africa
+Dublin,North Carolina,34.6568361,-78.726407,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Leon,North Carolina,35.0290534,-77.8199794,Leon,Mexico,21.1218598,-101.6825081,Americas
+Vienna,North Carolina,36.1376379,-80.4019988,Vienna,Austria,48.2083537,16.3725042,Europe
+Warsaw,North Carolina,34.9993329,-78.091101,Warsaw,Poland,52.2319581,21.0067249,Europe
+Dublin Woods,North Carolina,35.8168173,-78.7686167,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Shanghai,North Carolina,35.2623493,-81.6017601,Shanghai,China,31.2323437,121.4691024,Asia
+Vienna Forest,North Carolina,36.1334711,-80.4011655,Vienna,Austria,48.2083537,16.3725042,Europe
+Casablanca,North Carolina,35.1373844,-78.9705834,Casablanca,Morocco,33.5945144,-7.6200284,Africa
+Shanghai,North Carolina,34.7651702,-78.2074942,Shanghai,China,31.2323437,121.4691024,Asia
+New London,North Carolina,35.4431965,-80.2192225,London,UK,51.5073359,-0.12765,Europe
+Belgrade,North Carolina,34.8801595,-77.2349548,Belgrade,Serbia,44.8178131,20.4568974,Europe
+Lima,North Carolina,35.197383,-77.1355067,Lima,Peru,-12.0621065,-77.0365256,Americas
+New Berlin,North Carolina,34.3151685,-78.2197209,Berlin,Germany,52.5170365,13.3888599,Europe
+Brisbane,North Dakota,46.342505,-101.4909733,Brisbane,Australia,-27.4689682,153.0234991,Oceania
+Munich,North Dakota,48.669174,-98.8326307,Munich,Germany,48.1371079,11.5753822,Europe
+Perth,North Dakota,48.7163932,-99.4579209,Perth,Australia,-31.9558964,115.8605801,Oceania
+Sydney,North Dakota,46.7308155,-98.7698262,Sydney,Australia,-33.8698439,151.2082848,Oceania
+Warsaw,North Dakota,48.2960972,-97.254795,Warsaw,Poland,52.2319581,21.0067249,Europe
+Berlin,North Dakota,46.3785823,-98.4898183,Berlin,Germany,52.5170365,13.3888599,Europe
+Cairo,Ohio,40.9045021,-81.3603887,Cairo,Egypt,30.0443879,31.2357257,Africa
+New Alexandria,Ohio,40.2906252,-80.6792445,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Rome,Ohio,40.2464511,-82.9115694,Rome,Italy,41.8933203,12.4829321,Europe
+Rome,Ohio,41.6047773,-80.8653661,Rome,Italy,41.8933203,12.4829321,Europe
+Dublin,Ohio,41.0031141,-80.7856355,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Lima,Ohio,40.742551,-84.1052256,Lima,Peru,-12.0621065,-77.0365256,Americas
+New Rome,Ohio,39.9517297,-83.1421331,Rome,Italy,41.8933203,12.4829321,Europe
+Paris,Ohio,40.7975589,-81.1648244,Paris,France,48.8534951,2.3483915,Europe
+Warsaw,Ohio,40.3353465,-82.006807,Warsaw,Poland,52.2319581,21.0067249,Europe
+Alexandria,Ohio,38.7245206,-83.0479536,Alexandria,Egypt,31.1991806,29.8951716,Africa
+West Cairo,Ohio,40.8319958,-84.0810575,Cairo,Egypt,30.0443879,31.2357257,Africa
+North Milan,Ohio,41.3122738,-82.6046212,Milan,Italy,45.4641943,9.1896346,Europe
+Berlin Center,Ohio,41.0245026,-80.9475891,Berlin,Germany,52.5170365,13.3888599,Europe
+Dublin,Ohio,40.0992294,-83.1140771,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Hamburg,Ohio,39.6545085,-82.6607213,Hamburg,Germany,53.550341,10.000654,Europe
+Moscow,Ohio,38.8570117,-84.2291017,Moscow,Russia,55.7504461,37.6174943,Europe
+Cairo,Ohio,40.8319958,-84.0860576,Cairo,Egypt,30.0443879,31.2357257,Africa
+Calcutta,Ohio,40.673397,-80.5764592,Calcutta,India,22.5726459,88.3638953,Asia
+Vienna,Ohio,41.2378345,-80.6642432,Vienna,Austria,48.2083537,16.3725042,Europe
+South Vienna,Ohio,39.9270046,-83.6124236,Vienna,Austria,48.2083537,16.3725042,Europe
+West Berlin,Ohio,40.2556175,-83.0126846,Berlin,Germany,52.5170365,13.3888599,Europe
+Rome,Ohio,39.9564519,-83.1421331,Rome,Italy,41.8933203,12.4829321,Europe
+London,Ohio,40.9103338,-82.6293412,London,UK,51.5073359,-0.12765,Europe
+London,Ohio,39.8864493,-83.448253,London,UK,51.5073359,-0.12765,Europe
+Mecca,Ohio,41.3895005,-80.7370251,Mecca,Saudi Arabia,21.420847,39.826869,Asia
+Milan,Ohio,41.2975519,-82.6054547,Milan,Italy,45.4641943,9.1896346,Europe
+Toronto,Ohio,40.4642335,-80.6009058,Toronto,Canada,43.6534817,-79.3839347,Americas
+West Alexandria,Ohio,39.7444973,-84.5321727,Alexandria,Egypt,31.1991806,29.8951716,Africa
+West Mecca,Ohio,41.3903339,-80.7764715,Mecca,Saudi Arabia,21.420847,39.826869,Asia
+Infant of Prague Villa,Ohio,40.9936669,-81.5203948,Prague,Czech Republic,50.0874654,14.4212535,Europe
+Leon,Ohio,41.6536659,-80.6159093,Leon,Mexico,21.1218598,-101.6825081,Americas
+Lima,Ohio,39.0642437,-82.1198666,Lima,Peru,-12.0621065,-77.0365256,Americas
+Paris,Ohio,41.1664457,-81.0512057,Paris,France,48.8534951,2.3483915,Europe
+New Moscow,Ohio,40.2106262,-81.9718016,Moscow,Russia,55.7504461,37.6174943,Europe
+Alexandria,Ohio,40.0889524,-82.6123872,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Berlin,Ohio,41.6094946,-84.7544004,Berlin,Germany,52.5170365,13.3888599,Europe
+Berlin Heights,Ohio,41.3253278,-82.4932261,Berlin,Germany,52.5170365,13.3888599,Europe
+Berlin Heights Station,Ohio,41.352827,-82.4940591,Berlin,Germany,52.5170365,13.3888599,Europe
+Delhi,Ohio,39.0950595,-84.6052225,Delhi,India,28.6517178,77.2219388,Asia
+Hamburg,Ohio,39.8872722,-84.6763446,Hamburg,Germany,53.550341,10.000654,Europe
+New Paris,Ohio,39.8569934,-84.7932918,Paris,France,48.8534951,2.3483915,Europe
+New Vienna,Ohio,39.3236736,-83.6910336,Vienna,Austria,48.2083537,16.3725042,Europe
+North Lima,Ohio,40.9483929,-80.6589633,Lima,Peru,-12.0621065,-77.0365256,Americas
+Rome,Ohio,40.9264445,-82.5301708,Rome,Italy,41.8933203,12.4829321,Europe
+Saint Paris,Ohio,40.128389,-83.959658,Paris,France,48.8534951,2.3483915,Europe
+South Warsaw,Ohio,40.6583836,-84.0324448,Warsaw,Poland,52.2319581,21.0067249,Europe
+Warsaw Junction,Ohio,40.3289577,-82.0120847,Warsaw,Poland,52.2319581,21.0067249,Europe
+New London,Ohio,41.0850542,-82.3998887,London,UK,51.5073359,-0.12765,Europe
+Rome,Ohio,38.4459172,-82.3637621,Rome,Italy,41.8933203,12.4829321,Europe
+Moscow Mills,Ohio,39.6028508,-81.6256835,Moscow,Russia,55.7504461,37.6174943,Europe
+Berlin,Oklahoma,35.4506051,-99.6253779,Berlin,Germany,52.5170365,13.3888599,Europe
+Delhi,Oklahoma,35.1747745,-99.6764856,Delhi,India,28.6517178,77.2219388,Asia
+Leon,Oklahoma,33.8792685,-97.4291872,Leon,Mexico,21.1218598,-101.6825081,Americas
+Lima,Oklahoma,35.1739665,-96.5997374,Lima,Peru,-12.0621065,-77.0365256,Americas
+New Lima,Oklahoma,35.1717444,-96.592515,Lima,Peru,-12.0621065,-77.0365256,Americas
+Prague,Oklahoma,35.4867369,-96.6850174,Prague,Czech Republic,50.0874654,14.4212535,Europe
+Cairo,Oklahoma,34.5906488,-96.1319412,Cairo,Egypt,30.0443879,31.2357257,Africa
+Agra,Oklahoma,35.8947842,-96.8722487,Agra,India,27.1752554,78.0098161,Asia
+Cairo,Oregon,43.9959965,-117.0090508,Cairo,Egypt,30.0443879,31.2357257,Africa
+Damascus,Oregon,45.417621,-122.4589783,Damascus,Syria,33.5130695,36.3095814,Asia
+London Springs,Oregon,43.6317878,-123.0911866,London,UK,51.5073359,-0.12765,Europe
+Rome,Oregon,42.8390452,-117.6282109,Rome,Italy,41.8933203,12.4829321,Europe
+Berlin,Oregon,44.4979009,-122.7478648,Berlin,Germany,52.5170365,13.3888599,Europe
+Paris,Oregon,44.2526208,-123.7706633,Paris,France,48.8534951,2.3483915,Europe
+London,Oregon,43.6345656,-123.0928535,London,UK,51.5073359,-0.12765,Europe
+Adelaide,Pennsylvania,40.0434074,-79.623928,Adelaide,Australia,-34.9281805,138.5999312,Oceania
+Alexandria,Pennsylvania,40.5564586,-78.0977847,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Berlin,Pennsylvania,39.9206363,-78.9578022,Berlin,Germany,52.5170365,13.3888599,Europe
+Berlin Center,Pennsylvania,41.5911998,-75.2240635,Berlin,Germany,52.5170365,13.3888599,Europe
+Damascus,Pennsylvania,41.7031441,-75.0682239,Damascus,Syria,33.5130695,36.3095814,Asia
+Dublin,Pennsylvania,40.3717714,-75.2015627,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Dublin Mills,Pennsylvania,40.1206387,-78.0263918,Dublin,Ireland,53.3498006,-6.2602964,Europe
+East Berlin,Pennsylvania,39.937597,-76.9785892,Berlin,Germany,52.5170365,13.3888599,Europe
+Hamburg,Pennsylvania,40.5556484,-75.9818772,Hamburg,Germany,53.550341,10.000654,Europe
+Lima,Pennsylvania,39.9173332,-75.4404746,Lima,Peru,-12.0621065,-77.0365256,Americas
+London,Pennsylvania,41.1436709,-80.1486716,London,UK,51.5073359,-0.12765,Europe
+Moscow,Pennsylvania,41.3367497,-75.5185191,Moscow,Russia,55.7504461,37.6174943,Europe
+New Alexandria,Pennsylvania,40.3986791,-79.4219833,Alexandria,Egypt,31.1991806,29.8951716,Africa
+New Hamburg,Pennsylvania,41.3253337,-80.3417326,Hamburg,Germany,53.550341,10.000654,Europe
+New London,Pennsylvania,40.7886714,-78.4330757,London,UK,51.5073359,-0.12765,Europe
+New London,Pennsylvania,39.7826095,-75.8754973,London,UK,51.5073359,-0.12765,Europe
+New Paris,Pennsylvania,40.1064681,-78.644741,Paris,France,48.8534951,2.3483915,Europe
+Rome,Pennsylvania,41.8584081,-76.3407699,Rome,Italy,41.8933203,12.4829321,Europe
+Santiago,Pennsylvania,40.4342351,-80.270616,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Tripoli,Pennsylvania,40.5447924,-78.7769679,Tripoli,Libya,32.896672,13.1777923,Africa
+Valencia,Pennsylvania,40.6747887,-79.9895022,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Warsaw,Pennsylvania,41.2150623,-78.9533673,Warsaw,Poland,52.2319581,21.0067249,Europe
+Warsaw,Pennsylvania,41.4398027,-75.6160217,Warsaw,Poland,52.2319581,21.0067249,Europe
+Aleppo,Pennsylvania,39.8239684,-80.4461845,Aleppo,Syria,36.19924,37.1637253,Asia
+Berlin Junction,Pennsylvania,39.8559313,-77.0355363,Berlin,Germany,52.5170365,13.3888599,Europe
+Milan,Pennsylvania,41.9075745,-76.5232773,Milan,Italy,45.4641943,9.1896346,Europe
+North Rome,Pennsylvania,41.8725747,-76.4010501,Rome,Italy,41.8933203,12.4829321,Europe
+West Damascus,Pennsylvania,41.7000885,-75.1712832,Damascus,Syria,33.5130695,36.3095814,Asia
+East Berlin,Pennsylvania,41.5914777,-75.0960038,Berlin,Germany,52.5170365,13.3888599,Europe
+New Berlin,Pennsylvania,40.8789732,-76.9869178,Berlin,Germany,52.5170365,13.3888599,Europe
+Saint Petersburg,Pennsylvania,41.1617284,-79.6528265,Saint Petersburg,Russia,59.938732,30.316229,Europe
+Moscow,Rhode Island,41.5228772,-71.7414571,Moscow,Russia,55.7504461,37.6174943,Europe
+Lima,South Carolina,35.0892834,-82.4473426,Lima,Peru,-12.0621065,-77.0365256,Americas
+Warsaw,South Carolina,33.5085001,-79.5503404,Warsaw,Poland,52.2319581,21.0067249,Europe
+Hamburg,South Carolina,33.4798589,-81.957893,Hamburg,Germany,53.550341,10.000654,Europe
+Harbin Acres,South Carolina,34.6659359,-82.8940343,Harbin,China,45.8016143,126.5287796,Asia
+Paris Point,South Carolina,34.9228948,-82.41401,Paris,France,48.8534951,2.3483915,Europe
+Berlin,South Carolina,33.673761,-81.3037134,Berlin,Germany,52.5170365,13.3888599,Europe
+Rome,South Carolina,33.6479447,-79.4383902,Rome,Italy,41.8933203,12.4829321,Europe
+Melbourne Heights,South Carolina,34.5217736,-82.6401332,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+Alexandria,South Dakota,43.653592,-97.7828482,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Stockholm,South Dakota,45.0996868,-96.8020104,Stockholm,Sweden,59.3251172,18.0710935,Europe
+Toronto,South Dakota,44.5730202,-96.6425537,Toronto,Canada,43.6534817,-79.3839347,Americas
+Vienna,South Dakota,44.7030219,-97.5014704,Vienna,Austria,48.2083537,16.3725042,Europe
+South Berlin,Tennessee,35.5006284,-86.8366675,Berlin,Germany,52.5170365,13.3888599,Europe
+Berlin,Tennessee,35.5297942,-86.8244448,Berlin,Germany,52.5170365,13.3888599,Europe
+Bogota,Tennessee,36.1639584,-89.438407,Bogota,Colombia,4.6529539,-74.0835643,Americas
+Cairo,Tennessee,36.360882,-86.3636029,Cairo,Egypt,30.0443879,31.2357257,Africa
+Hamburg,Tennessee,35.006747,-85.7024704,Hamburg,Germany,53.550341,10.000654,Europe
+Hamburg,Tennessee,35.0948064,-88.3042074,Hamburg,Germany,53.550341,10.000654,Europe
+Harbin,Tennessee,35.8703512,-84.6374383,Harbin,China,45.8016143,126.5287796,Asia
+Melbourne,Tennessee,36.1795233,-83.9929702,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+Moscow,Tennessee,35.0620344,-89.4039631,Moscow,Russia,55.7504461,37.6174943,Europe
+Paris,Tennessee,36.3020023,-88.3267107,Paris,France,48.8534951,2.3483915,Europe
+Quito,Tennessee,35.4131397,-89.9345312,Quito,Ecuador,-0.2201641,-78.5123274,Americas
+Rome,Tennessee,36.2619973,-86.0716557,Rome,Italy,41.8933203,12.4829321,Europe
+Cairo Bend,Tennessee,36.2389421,-86.4002706,Cairo,Egypt,30.0443879,31.2357257,Africa
+Casablanca,Tennessee,36.2306473,-83.3240605,Casablanca,Morocco,33.5945144,-7.6200284,Africa
+Alexandria,Tennessee,36.0775587,-86.0333222,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Cairo,Tennessee,35.8234062,-89.1661786,Cairo,Egypt,30.0443879,31.2357257,Africa
+Damascus,Tennessee,36.4392847,-81.9120632,Damascus,Syria,33.5130695,36.3095814,Asia
+London,Tennessee,35.8698226,-83.002092,London,UK,51.5073359,-0.12765,Europe
+Manila,Tennessee,35.4625744,-84.4785395,Manila,Philippines,14.5948914,120.9782618,Asia
+Milan,Tennessee,35.9197886,-88.7589489,Milan,Italy,45.4641943,9.1896346,Europe
+Mecca,Tennessee,35.3542415,-84.4210371,Mecca,Saudi Arabia,21.420847,39.826869,Asia
+De Leon,Texas,32.1109743,-98.5358826,Leon,Mexico,21.1218598,-101.6825081,Americas
+Dublin,Texas,32.085143,-98.3419882,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Leon Springs,Texas,29.6649467,-98.6291885,Leon,Mexico,21.1218598,-101.6825081,Americas
+Leon Valley,Texas,29.4952307,-98.6186317,Leon,Mexico,21.1218598,-101.6825081,Americas
+New Berlin,Texas,29.4641219,-98.1011187,Berlin,Germany,52.5170365,13.3888599,Europe
+New London,Texas,32.2387667,-94.9404949,London,UK,51.5073359,-0.12765,Europe
+San Leon,Texas,29.4832863,-94.9221465,Leon,Mexico,21.1218598,-101.6825081,Americas
+Santa Cruz,Texas,26.3545111,-98.7683593,Santa Cruz,Bolivia,-17.333333,-61.5,Americas
+Warsaw,Texas,32.5501364,-96.4202626,Warsaw,Poland,52.2319581,21.0067249,Europe
+Belgrade,Texas,30.6857573,-93.6635081,Belgrade,Serbia,44.8178131,20.4568974,Europe
+Leon Junction,Texas,31.3410021,-97.5941839,Leon,Mexico,21.1218598,-101.6825081,Americas
+London,Texas,30.6768485,-99.5764516,London,UK,51.5073359,-0.12765,Europe
+Moscow,Texas,30.913247899999998,-94.8252089,Moscow,Russia,55.7504461,37.6174943,Europe
+Paris,Texas,33.6609389,-95.555513,Paris,France,48.8534951,2.3483915,Europe
+Toronto,Texas,30.3401601,-103.7507312,Toronto,Canada,43.6534817,-79.3839347,Americas
+Berlin,Texas,30.1713271,-96.4458011,Berlin,Germany,52.5170365,13.3888599,Europe
+Delhi,Texas,29.8274481,-97.3955486,Delhi,India,28.6517178,77.2219388,Asia
+Harbin,Texas,32.1168093,-98.2733756,Harbin,China,45.8016143,126.5287796,Asia
+Old London,Texas,32.2268228,-94.9446616,London,UK,51.5073359,-0.12765,Europe
+Santa Cruz,Texas,27.4033702,-98.2683404,Santa Cruz,Bolivia,-17.333333,-61.5,Americas
+Vienna,Texas,29.3783004,-96.7924779,Vienna,Austria,48.2083537,16.3725042,Europe
+Warsaw Center,Texas,32.5545807,-96.4155402,Warsaw,Poland,52.2319581,21.0067249,Europe
+Buenos Aires,Texas,29.0852039,-103.4690674,Buenos Aires,Argentina,-34.6075682,-58.4370894,Americas
+Mecca,Texas,30.9840768,-96.0669011,Mecca,Saudi Arabia,21.420847,39.826869,Asia
+Manila,Utah,40.9880142,-109.7226498,Manila,Philippines,14.5948914,120.9782618,Asia
+Valencia,Utah,40.9077226,-111.9035498,Valencia,Venezuela,10.170026,-68.0003987,Americas
+New London,Utah,40.7418906,-111.8982696,London,UK,51.5073359,-0.12765,Europe
+Dublin Town,Utah,40.6605032,-111.7860434,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Dublin Town,Utah,40.6560578,-112.0185503,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Berlin Corners,Vermont,44.2100604,-72.5759414,Berlin,Germany,52.5170365,13.3888599,Europe
+Moscow,Vermont,44.4414432,-72.7153961,Moscow,Russia,55.7504461,37.6174943,Europe
+West Berlin,Vermont,44.2000603,-72.6328878,Berlin,Germany,52.5170365,13.3888599,Europe
+Madrid,Virginia,38.139578,-78.8805801,Madrid,Spain,40.4167047,-3.7035825,Europe
+New London,Virginia,37.3018103,-79.2803031,London,UK,51.5073359,-0.12765,Europe
+Berlin,Virginia,36.8576503,-76.9774612,Berlin,Germany,52.5170365,13.3888599,Europe
+Lahore,Virginia,38.1987457,-77.9694418,Lahore,Pakistan,31.5656822,74.3141829,Asia
+Moscow,Virginia,38.3170716,-79.0889207,Moscow,Russia,55.7504461,37.6174943,Europe
+New London,Virginia,38.1387429,-77.3177581,London,UK,51.5073359,-0.12765,Europe
+Rabat,Virginia,36.9770846,-78.948624,Rabat,Morocco,34.02236,-6.8340222,Africa
+Damascus,Virginia,36.6337272,-81.7837303,Damascus,Syria,33.5130695,36.3095814,Asia
+Hamburg,Virginia,38.658174700000004,-78.5144541,Hamburg,Germany,53.550341,10.000654,Europe
+Alexandria,Virginia,38.8048356,-77.0469214,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Dublin,Virginia,37.1056784,-80.6853434,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Hamburg,Virginia,38.8051134,-78.637515,Hamburg,Germany,53.550341,10.000654,Europe
+Leon,Virginia,38.4376271,-78.1383336,Leon,Mexico,21.1218598,-101.6825081,Americas
+New Alexandria,Virginia,38.7765028,-77.0566439,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Osaka,Virginia,36.947040200000004,-82.8107165,Osaka,Japan,34.661629000000005,135.49992679245517,Asia
+Paris,Virginia,39.0045526,-77.951385,Paris,France,48.8534951,2.3483915,Europe
+Perth,Virginia,37.0165291,-78.9950151,Perth,Australia,-31.9558964,115.8605801,Oceania
+Hampden Sydney,Virginia,37.2423746,-78.4597173,Sydney,Australia,-33.8698439,151.2082848,Oceania
+Montevideo,Virginia,38.3645712,-78.7694682,Montevideo,Uruguay,-34.9058916,-56.1913095,Americas
+Vienna Woods,Virginia,38.8878894,-77.2474822,Vienna,Austria,48.2083537,16.3725042,Europe
+London Bridge,Virginia,36.8418151,-76.0496544,London,UK,51.5073359,-0.12765,Europe
+Patna,Virginia,38.2337362,-79.5239334,Patna,India,25.6093239,85.1235252,Asia
+Shanghai,Virginia,37.6081987,-76.7785721,Shanghai,China,31.2323437,121.4691024,Asia
+Vienna,Virginia,38.9012225,-77.2652604,Vienna,Austria,48.2083537,16.3725042,Europe
+Warsaw,Virginia,37.9587447,-76.7580139,Warsaw,Poland,52.2319581,21.0067249,Europe
+Paris Store,Virginia,36.6168158,-77.701096,Paris,France,48.8534951,2.3483915,Europe
+Melbourne,Washington,46.9453735,-123.6259961,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+New London,Washington,47.0573118,-123.9271144,London,UK,51.5073359,-0.12765,Europe
+Adelaide,Washington,47.3309328,-122.3604012,Adelaide,Australia,-34.9281805,138.5999312,Oceania
+Adelaide,Washington,47.6498219,-122.0887333,Adelaide,Australia,-34.9281805,138.5999312,Oceania
+Leon,Washington,46.5318297,-117.0393276,Leon,Mexico,21.1218598,-101.6825081,Americas
+Milan,Washington,47.9668399,-117.3316058,Milan,Italy,45.4641943,9.1896346,Europe
+Rosario,Washington,48.6487148,-122.876016,Rosario,Argentina,-32.9595004,-60.6615415,Americas
+Rosario Beach,Washington,48.4195467,-122.664339,Rosario,Argentina,-32.9595004,-60.6615415,Americas
+Vancouver Junction,Washington,45.6773386,-122.6920427,Vancouver,Canada,49.2608724,-123.113952,Americas
+Vancouver,Washington,45.6387281,-122.6614861,Vancouver,Canada,49.2608724,-123.113952,Americas
+Berlin,West Virginia,39.0525951,-80.3550877,Berlin,Germany,52.5170365,13.3888599,Europe
+Cairo,West Virginia,39.2086894,-81.1573349,Cairo,Egypt,30.0443879,31.2357257,Africa
+Calcutta,West Virginia,39.3506315,-81.1945574,Calcutta,India,22.5726459,88.3638953,Asia
+Leon,West Virginia,38.7506394,-81.9606935,Leon,Mexico,21.1218598,-101.6825081,Americas
+London,West Virginia,38.1945491,-81.3687243,London,UK,51.5073359,-0.12765,Europe
+Santiago,West Virginia,39.3698103,-80.2014723,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Shanghai,West Virginia,39.4414872,-78.1322246,Shanghai,China,31.2323437,121.4691024,Asia
+Moscow,West Virginia,40.5456208,-80.6322957,Moscow,Russia,55.7504461,37.6174943,Europe
+Indore,West Virginia,38.3528812,-81.1467757,Indore,India,22.7203616,75.8681996,Asia
+Manila,West Virginia,37.9867678,-81.9429031,Manila,Philippines,14.5948914,120.9782618,Asia
+Vienna,West Virginia,39.3270191,-81.5484578,Vienna,Austria,48.2083537,16.3725042,Europe
+Berlin,Wisconsin,43.9680365,-88.9434477,Berlin,Germany,52.5170365,13.3888599,Europe
+Brussels,Wisconsin,44.7361071,-87.6209298,Brussels,Belgium,50.8465573,4.351697,Europe
+Leon,Wisconsin,43.8774673,-90.8301331,Leon,Mexico,21.1218598,-101.6825081,Americas
+Lima Center,Wisconsin,42.789454,-88.8273298,Lima,Peru,-12.0621065,-77.0365256,Americas
+London,Wisconsin,43.0477775,-89.0128881,London,UK,51.5073359,-0.12765,Europe
+Milan,Wisconsin,44.981078,-90.1795792,Milan,Italy,45.4641943,9.1896346,Europe
+Montreal,Wisconsin,46.4280033,-90.2460097,Montreal,Canada,45.5031824,-73.5698065,Americas
+New Berlin,Wisconsin,42.9764027,-88.1084224,Berlin,Germany,52.5170365,13.3888599,Europe
+New London,Wisconsin,44.3927582,-88.7398256,London,UK,51.5073359,-0.12765,Europe
+Paris,Wisconsin,42.6336298,-88.0514727,Paris,France,48.8534951,2.3483915,Europe
+Rome,Wisconsin,42.9802852,-88.6312126,Rome,Italy,41.8933203,12.4829321,Europe
+Stockholm,Wisconsin,44.4833009,-92.2621214,Stockholm,Sweden,59.3251172,18.0710935,Europe
+Tripoli,Wisconsin,45.5552409,-89.9940363,Tripoli,Libya,32.896672,13.1777923,Africa
+West Lima,Wisconsin,43.5463637,-90.5304075,Lima,Peru,-12.0621065,-77.0365256,Americas
+Moscow,Wisconsin,42.8333345,-89.8551236,Moscow,Russia,55.7504461,37.6174943,Europe
+New Paris,Wisconsin,43.7330502,-87.9720377,Paris,France,48.8534951,2.3483915,Europe
+New Rome,Wisconsin,44.2194106,-89.8809597,Rome,Italy,41.8933203,12.4829321,Europe
+Lima,Wisconsin,44.6338533,-91.8729454,Lima,Peru,-12.0621065,-77.0365256,Americas
+Johannesburg,Wisconsin,45.1652435,-92.5940894,Johannesburg,South Africa,-26.205,28.049722,Africa
+Hamburg,Wisconsin,45.0905228,-89.8851301,Hamburg,Germany,53.550341,10.000654,Europe
+Buenos Aires,Puerto Rico,18.4385572,-66.0626658,Buenos Aires,Argentina,-34.6075682,-58.4370894,Americas
+Campamento Punta Lima,Puerto Rico,18.181904,-65.6932169,Lima,Peru,-12.0621065,-77.0365256,Americas
+El Rosario,Puerto Rico,18.0266311,-66.8568427,Rosario,Argentina,-32.9595004,-60.6615415,Americas
+Hacienda Rosario,Puerto Rico,18.1424592,-66.7785085,Rosario,Argentina,-32.9595004,-60.6615415,Americas
+Hacienda Santiago,Puerto Rico,18.1894011,-66.9132326,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Monterrey,Puerto Rico,18.4213364,-66.3135024,Monterrey,Mexico,25.6802019,-100.315258,Americas
+Punta Santiago,Puerto Rico,18.1663493,-65.7482172,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Rosario,Puerto Rico,18.1624569,-67.0790684,Rosario,Argentina,-32.9595004,-60.6615415,Americas
+Santa Cruz,Puerto Rico,17.9816335,-66.5954501,Santa Cruz,Bolivia,-17.333333,-61.5,Americas
+Santiago,Puerto Rico,17.9960764,-66.3518353,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Santiago y Lima,Puerto Rico,18.2046806,-65.705717,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Santiago Iglesias,Puerto Rico,18.3830048,-66.0993329,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Santo Domingo,Puerto Rico,18.063296,-66.7523972,Santo Domingo,Dominican Republic,18.4801972,-69.942111,Americas
+Shanghai,Puerto Rico,18.207736,-65.7446063,Shanghai,China,31.2323437,121.4691024,Asia
+Valencia,Puerto Rico,18.2260671,-65.918497,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Valencia,Puerto Rico,18.3996705,-66.1912784,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Valencia,Puerto Rico,18.4113362,-66.0440546,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Santiago,Puerto Rico,18.4907764,-67.0662913,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Vienna Corners,Michigan,44.9702879,-84.3708475,Vienna,Austria,48.2083537,16.3725042,Europe
+Vienna Junction,Michigan,44.8797336,-84.323625,Vienna,Austria,48.2083537,16.3725042,Europe
+Berlin Center,Michigan,42.9005887,-85.1341733,Berlin,Germany,52.5170365,13.3888599,Europe
+Bombay,Michigan,43.7416926,-84.2663834,Bombay,India,19.0785451,72.878176,Asia
+Santiago,Michigan,44.1127962,-83.7005386,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Vienna,Michigan,41.7869911,-83.4779893,Vienna,Austria,48.2083537,16.3725042,Europe
+Vienna Junction,Michigan,41.7500473,-83.5049343,Vienna,Austria,48.2083537,16.3725042,Europe
+Copenhagen Beach,Michigan,45.9835825,-86.294311,Copenhagen,Denmark,55.6867243,12.5700724,Europe
+Dublin,Michigan,44.179451,-85.9314613,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Paris,Michigan,43.7733539,-85.5025468,Paris,France,48.8534951,2.3483915,Europe
+Alexandria,Louisiana,31.3112936,-92.4451371,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Damascus Heights,Oregon,45.4206764,-122.4492561,Damascus,Syria,33.5130695,36.3095814,Asia
+London,California,36.4760619,-119.4431785,London,UK,51.5073359,-0.12765,Europe
+Mecca,California,33.571692,-116.0772244,Mecca,Saudi Arabia,21.420847,39.826869,Asia
+Little Osaka,California,37.7857625,-122.4299713,Osaka,Japan,34.661629000000005,135.49992679245517,Asia
+Valencia Gardens,California,37.7665965,-122.4233043,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Dublin,California,37.7021521,-121.9357918,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Bombay,California,38.6868471,-121.4802329,Bombay,India,19.0785451,72.878176,Asia
+Brisbane,California,37.6808333,-122.4,Brisbane,Australia,-27.4689682,153.0234991,Oceania
+Delhi,California,37.4321589,-120.7785354,Delhi,India,28.6517178,77.2219388,Asia
+Harbin Springs,California,38.7876817,-122.6555423,Harbin,China,45.8016143,126.5287796,Asia
+Harbin Springs Annex,California,38.792126,-122.6613759,Harbin,China,45.8016143,126.5287796,Asia
+Melbourne,California,39.2832292,-123.6508453,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+Salvador,California,38.3407465,-122.3208088,Salvador,Brazil,-12.9822499,-38.4812772,Americas
+Santa Cruz,California,36.9741171,-122.0307963,Santa Cruz,Bolivia,-17.333333,-61.5,Americas
+Agra,California,33.3333645,-117.5000427,Agra,India,27.1752554,78.0098161,Asia
+Valencia,California,34.4436063,-118.6095321,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Bombay Beach,California,33.3508667,-115.7297152,Bombay,India,19.0785451,72.878176,Asia
+Berlin West,Maryland,38.3326165,-75.361583,Berlin,Germany,52.5170365,13.3888599,Europe
+London Hill,Georgia,30.8446787,-81.6117673,London,UK,51.5073359,-0.12765,Europe
+Barcelona Estates,Georgia,33.5234455,-84.3338123,Barcelona,Spain,41.3828939,2.1774322,Europe
+Harbin Acres,Georgia,33.5801105,-84.2982559,Harbin,China,45.8016143,126.5287796,Asia
+Paris Estates,Maryland,38.7048403,-76.580514,Paris,France,48.8534951,2.3483915,Europe
+Paris Oaks,Maryland,38.7106736,-76.5746805,Paris,France,48.8534951,2.3483915,Europe
+Paris Pines,Maryland,38.7026181,-76.5780139,Paris,France,48.8534951,2.3483915,Europe
+Paris Poplars,Maryland,38.7042849,-76.5682912,Paris,France,48.8534951,2.3483915,Europe
+Paris Manor,Georgia,33.8501051,-84.6999354,Paris,France,48.8534951,2.3483915,Europe
+Paris Heights,Virginia,39.0251077,-77.9591629,Paris,France,48.8534951,2.3483915,Europe
+Dublin Manor,Maryland,39.6189908,-76.9349798,Dublin,Ireland,53.3498006,-6.2602964,Europe
+London Bridge Estates,Maryland,39.4631583,-76.9555355,London,UK,51.5073359,-0.12765,Europe
+Dublin Manor,Maryland,39.6459394,-76.2635677,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Montreal Acres,Maryland,39.52872,-76.2238441,Montreal,Canada,45.5031824,-73.5698065,Americas
+Valencia,California,34.1466768,-117.2725427,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Valencia Hill,Georgia,33.9178804,-84.4654857,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Milan,Illinois,38.0861574,-88.1783718,Milan,Italy,45.4641943,9.1896346,Europe
+Dublin Manor,Maryland,39.4803793,-77.3824847,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Damascus Gardens,Maryland,39.2823271,-77.2038717,Damascus,Syria,33.5130695,36.3095814,Asia
+Damascus Terrace,Maryland,39.2823271,-77.2002605,Damascus,Syria,33.5130695,36.3095814,Asia
+Damascus Valley Estates,Maryland,39.286216,-77.1824823,Damascus,Syria,33.5130695,36.3095814,Asia
+Damascus View,Maryland,39.2792717,-77.2135941,Damascus,Syria,33.5130695,36.3095814,Asia
+Damascus Hill,Maryland,39.2612164,-77.2013717,Damascus,Syria,33.5130695,36.3095814,Asia
+Damascus Manor,Maryland,39.2798272,-77.2110941,Damascus,Syria,33.5130695,36.3095814,Asia
+Damascus Valley Park,Maryland,39.2787161,-77.2049828,Damascus,Syria,33.5130695,36.3095814,Asia
+Little Tokyo,California,34.04779,-118.2411848,Tokyo,Japan,35.6812665,139.757653,Asia
+New Delhi,Illinois,39.0317139,-90.2612233,Delhi,India,28.6517178,77.2219388,Asia
+Tripoli Heights,Virginia,38.5740088,-77.3197049,Tripoli,Libya,32.896672,13.1777923,Africa
+London Towne,Virginia,38.8390021,-77.4566554,London,UK,51.5073359,-0.12765,Europe
+Villa Valencia,California,33.7266853,-117.8094989,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Colonia Juarez,California,33.712518,-117.9475585,Juarez,Mexico,19.29348285,-100.46459244066614,Americas
+Damascus,Alabama,33.9748233,-86.8736109,Damascus,Syria,33.5130695,36.3095814,Asia
+Valencia Heights,South Carolina,33.9765447,-80.9850909,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Valencia Park,California,32.7047745,-117.0850299,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Stockholm,Kentucky,37.2481047,-86.1308062,Stockholm,Sweden,59.3251172,18.0710935,Europe
+Alexandria,New Hampshire,43.6114624,-71.7928579,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Barcelona,Puerto Rico,18.2038435,-67.139624,Barcelona,Spain,41.3828939,2.1774322,Europe
+Barriada Buenos Aires,Puerto Rico,18.2032918,-65.7382173,Buenos Aires,Argentina,-34.6075682,-58.4370894,Americas
+Brasilia,Puerto Rico,18.4449464,-66.381281,Brasilia,Brazil,-10.3333333,-53.2,Americas
+Buenos Aires,Puerto Rico,17.9680219,-66.401003,Buenos Aires,Argentina,-34.6075682,-58.4370894,Americas
+Hermanos Santiago,Puerto Rico,18.0557961,-66.5060056,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Jardines de Barcelona,Puerto Rico,18.2196785,-65.9162747,Barcelona,Spain,41.3828939,2.1774322,Europe
+Jardines de Valencia,Puerto Rico,18.4105029,-66.0412768,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Lagos de Norte,Puerto Rico,18.4630009,-66.1893337,Lagos,Nigeria,6.4550575,3.3941795,Africa
+Madrid,Puerto Rico,18.2335667,-65.9212748,Madrid,Spain,40.4167047,-3.7035825,Europe
+Monterrey,Puerto Rico,18.1819024,-65.9568302,Monterrey,Mexico,25.6802019,-100.315258,Americas
+Paris,Puerto Rico,18.204677,-67.1351797,Paris,France,48.8534951,2.3483915,Europe
+Ponce de Leon,Puerto Rico,18.2085658,-67.1237908,Leon,Mexico,21.1218598,-101.6825081,Americas
+Reparto Santiago,Puerto Rico,18.216069,-65.7357175,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Residencial Lagos de Blasina,Puerto Rico,18.3905037,-65.9621096,Lagos,Nigeria,6.4550575,3.3941795,Africa
+Residencial Prexedes Santiago,Puerto Rico,18.1727359,-66.1587779,Santiago,Chile,-33.4377756,-70.6504502,Americas
+San Salvador,Puerto Rico,18.4307804,-66.486838,Salvador,Brazil,-12.9822499,-38.4812772,Americas
+Santa Cruz,Puerto Rico,18.3960597,-66.1465556,Santa Cruz,Bolivia,-17.333333,-61.5,Americas
+Valencia,Puerto Rico,18.2221784,-65.9218303,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Villa Barcelona,Puerto Rico,18.4557792,-66.5482278,Barcelona,Spain,41.3828939,2.1774322,Europe
+Villa del Rosario,Puerto Rico,18.2169023,-65.7296063,Rosario,Argentina,-32.9595004,-60.6615415,Americas
+Villa del Rosario,Puerto Rico,18.4485574,-66.3882255,Rosario,Argentina,-32.9595004,-60.6615415,Americas
+Boulevardo Buenos Aires,Puerto Rico,18.4705007,-66.7185084,Buenos Aires,Argentina,-34.6075682,-58.4370894,Americas
+Mansiones Monterrey,Puerto Rico,18.3880039,-66.0446102,Monterrey,Mexico,25.6802019,-100.315258,Americas
+Monterrey,Puerto Rico,18.3857818,-66.0379434,Monterrey,Mexico,25.6802019,-100.315258,Americas
+Calcutta Colonia,Texas,31.6712234,-106.2766475,Calcutta,India,22.5726459,88.3638953,Asia
+Juarez Colonia,Texas,26.2022971,-97.7322149,Juarez,Mexico,19.29348285,-100.46459244066614,Americas
+Santa Cruz Number 2 Colonia,Texas,26.3633996,-98.7714149,Santa Cruz,Bolivia,-17.333333,-61.5,Americas
+North Santa Cruz Colonia,Texas,26.366455,-98.7714149,Santa Cruz,Bolivia,-17.333333,-61.5,Americas
+Santa Cruz Estates Colonia,Texas,26.3422918,-98.1191749,Santa Cruz,Bolivia,-17.333333,-61.5,Americas
+Santa Cruz Orange Gardens Colonia,Texas,26.3664577,-98.1483427,Santa Cruz,Bolivia,-17.333333,-61.5,Americas
+North Santa Cruz Colonia,Texas,26.3892348,-98.1363978,Santa Cruz,Bolivia,-17.333333,-61.5,Americas
+London,Texas,32.2309892,-94.9443839,London,UK,51.5073359,-0.12765,Europe
+Stockholm,Texas,26.3867362,-97.8791656,Stockholm,Sweden,59.3251172,18.0710935,Europe
+Alexandria,Virginia,36.7713889,-76.1977778,Alexandria,Egypt,31.1991806,29.8951716,Africa
+Dublin Chase,Pennsylvania,40.1454,-75.1817,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Dublin Crossing,Pennsylvania,40.1616,-75.1682,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Dublin Estates,Pennsylvania,40.1502,-75.1889,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Dublin Glen,Pennsylvania,40.1754,-75.1913,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Dublin Hunt II,Pennsylvania,40.1491,-75.1574,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Dublin Lea,Pennsylvania,40.163,-75.178,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Dublin Meadows,Pennsylvania,40.1731,-75.1775,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Estate of Dublin,Pennsylvania,40.16,-75.1913,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Lima Estates,Pennsylvania,39.9219,-75.442,Lima,Peru,-12.0621065,-77.0365256,Americas
+Upper Dublin,Pennsylvania,40.1646,-75.2174,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Bombay Woods,Delaware,39.2884,-75.5909,Bombay,India,19.0785451,72.878176,Asia
+Melbourne Manor,Delaware,39.1002,-75.609,Melbourne,Australia,-37.8142176,144.9631608,Oceania
+Paris Woods,Delaware,38.9647,-75.52,Paris,France,48.8534951,2.3483915,Europe
+Punta Santiago Comunidad,Puerto Rico,18.1617956,-65.7586597,Santiago,Chile,-33.4377756,-70.6504502,Americas
+Santo Domingo Comunidad,Puerto Rico,18.0719306,-66.7459161,Santo Domingo,Dominican Republic,18.4801972,-69.942111,Americas
+Vienna Heights,New York,42.9452778,-73.9041667,Vienna,Austria,48.2083537,16.3725042,Europe
+Alexandria Place,Florida,27.9402,-82.3393,Alexandria,Egypt,31.1991806,29.8951716,Africa
+De Leon Park,Florida,27.9825,-82.4563,Leon,Mexico,21.1218598,-101.6825081,Americas
+Cairo,Florida,27.9532,-82.4486,Cairo,Egypt,30.0443879,31.2357257,Africa
+Leon,Florida,27.6938,-82.4258,Leon,Mexico,21.1218598,-101.6825081,Americas
+Madrid,Florida,27.9196,-82.4914,Madrid,Spain,40.4167047,-3.7035825,Europe
+Mecca City,Florida,28.0023,-82.5934,Mecca,Saudi Arabia,21.420847,39.826869,Asia
+North Rome Estates,Florida,28.0043,-82.4772,Rome,Italy,41.8933203,12.4829321,Europe
+Sydney Crossings,Florida,27.9852,-82.1774,Sydney,Australia,-33.8698439,151.2082848,Oceania
+Tripoli Place,Florida,27.9988,-82.4409,Tripoli,Libya,32.896672,13.1777923,Africa
+Valencia in Old Hyde Park,Florida,27.9384,-82.4765,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Valencia Manor,Florida,28.0461,-82.3848,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Hamburg Heights,Pennsylvania,40.566413,-75.982511,Hamburg,Germany,53.550341,10.000654,Europe
+Valencia Lakes,Florida,27.7305556,-82.3266667,Valencia,Venezuela,10.170026,-68.0003987,Americas
+Vienna Estates,New York,43.015,-77.0780556,Vienna,Austria,48.2083537,16.3725042,Europe
+Dublin,New York,40.9813889,-73.6958333,Dublin,Ireland,53.3498006,-6.2602964,Europe
+Paris Court West,Ohio,40.1338889,-83.9813889,Paris,France,48.8534951,2.3483915,Europe
+Paris Court East,Ohio,40.1247222,-83.9558333,Paris,France,48.8534951,2.3483915,Europe
+Rome,Wisconsin,44.2205996,-89.8084259,Rome,Italy,41.8933203,12.4829321,Europe
+London Terrace,Ohio,39.882615,-83.461175,London,UK,51.5073359,-0.12765,Europe
+Seis Lagos,Texas,33.0703026,-96.5635978,Lagos,Nigeria,6.4550575,3.3941795,Africa

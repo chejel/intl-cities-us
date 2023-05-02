@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>As the World Turns</title>
+  </head>
+  <body>
+    <div class="container">
+      <div id="app"></div>
+      <div class="text-container">
+        <div class="toggle"><input type="checkbox" /><span class="toggle-text">Click to rotate globe</span></div>
+        <h1>U.S. Cities with International Names</h1>
+        <div class="intro">
+          The points on the globe represent major cities with names that match a municipality in the U.S., either fully
+          or partially. The names may or may not have a shared history; the only relationship to be conveyed here is the
+          similarity in name only. Select a city to see the locations and names of the corresponding towns and cities in
+          the U.S.
+        </div>
+
+        <div class="boxed-text">
+          <ul class="directions">
+            <li><i class="fa-solid fa-arrow-left-long"></i></li>
+            <li><i class="fa-solid fa-1"></i></li>
+            <li>Click a major international city on the globe</li>
+          </ul>
+          <ul class="directions">
+            <li><i class="fa-solid fa-arrow-down-long"></i></li>
+            <li><i class="fa-solid fa-2"></i></li>
+            <li>See the U.S. municipalities with the same name</li>
+          </ul>
+        </div>
+        <div class="matches-text"></div>
+        <div id="table-container">
+          <table id="table-matches"></table>
+        </div>
+      </div>
+    </div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/topojson@3.0.2/dist/topojson.js"></script>
+    <script src="./index.js"></script>
+    <script src="https://kit.fontawesome.com/c1c795151c.js" crossorigin="anonymous"></script>
+  </body>
+</html>
