@@ -131,7 +131,7 @@ async function draw() {
 
     projection.rotate([95.7, -37.1]);
     path = d3.geoPath().projection(projection);
-    svg.selectAll("path").transition().duration(2500).ease(d3.easeLinear).attr("d", path);
+    map.selectAll("path").transition().duration(2500).attr("d", path);
 
     let matching_us_cities = [];
 
@@ -185,6 +185,7 @@ async function draw() {
       .text(d => d)
       .attr("class", "table-text");
 
+    // US point flashes when corresponding table row clicked on
     rows.on("click", (d, e) => {
       map
         .selectAll(".circle")

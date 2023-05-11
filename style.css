@@ -13,6 +13,16 @@ body {
   padding: 0 1rem 1rem 1rem;
 }
 
+a {
+  text-decoration: none;
+  color: #b0daff;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #19a7ce;
+}
+
 h1 {
   font-family: "Playfair Display";
   font-weight: normal;
@@ -24,24 +34,35 @@ h1 {
   gap: 4rem;
   flex-wrap: no-wrap;
   justify-content: center;
-  align-items: center;
+  align-items: start;
 }
 
 .text-container {
   margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
 }
 
 .intro {
   font-size: 0.9em;
   margin-bottom: 1rem;
-  width: 500px;
+  /* width: 500px; */
+  line-height: 1.3;
+}
+
+.notes {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  color: #f7d060;
+  padding-top: 0.5rem;
 }
 
 .boxed-text {
   border: 1px dashed rgba(247, 208, 96, 0.5);
-  margin-top: 2rem;
   padding: 1rem;
-  width: max-content;
+  /* width: max-content; */
 }
 
 .matches-text {
@@ -51,34 +72,35 @@ h1 {
   font-weight: 400;
 }
 
-#table-container {
-  height: 350px;
+/* Kevin Powell on YT: https://www.youtube.com/watch?v=lvKK2fs6h4I */
+
+#table-matches {
   overflow-y: auto;
+  max-height: 300px;
+  height: auto;
+  padding-right: 2rem;
   margin-top: 1rem;
   display: inline-block;
 }
-
-/* Kevin Powell on YT: https://www.youtube.com/watch?v=lvKK2fs6h4I */
-
-#table-container::-webkit-scrollbar {
+#table-matches::-webkit-scrollbar {
   width: 0.5em;
   height: 1em;
 }
 
-#table-container::-webkit-scrollbar-track {
+#table-matches::-webkit-scrollbar-track {
   background: #475c82;
   border-radius: 100vw;
   margin-block: 0;
 }
 
-#table-container::-webkit-scrollbar-thumb {
+#table-matches::-webkit-scrollbar-thumb {
   background: #5b759c;
   border-radius: 100vw;
 }
 
 #table-matches {
   border-collapse: collapse;
-  width: 450px;
+  /* width: 450px; */
   margin-right: 1rem;
 }
 
@@ -180,7 +202,7 @@ input:checked::after {
 }
 
 .toggle {
-  display: inline-flex;
+  display: flex;
   justify-content: flex-start;
   align-items: center;
 }
@@ -200,18 +222,20 @@ input:checked::after {
     padding-top: 2rem;
   }
 
+  .text-container {
+    width: 60vw;
+  }
+
   .boxed-text {
     border: 1px dashed rgba(247, 208, 96, 0.5);
-    margin-top: 2rem;
     padding: 1rem;
     width: max-content;
   }
 
-  #table-container {
+  #table-matches {
     height: fit-content;
     max-height: 350px;
     overflow-y: auto;
-    margin-top: 1rem;
     padding-bottom: 2rem;
     display: inline-block;
   }
