@@ -146,7 +146,7 @@ async function draw() {
     // text showing matches
     d3.select("text").remove();
 
-    d3.select(".matches-text")
+    d3.selectAll(".matches-text")
       .append("text")
       .attr("class", "matches-text")
       .html(
@@ -162,7 +162,7 @@ async function draw() {
     d3.selectAll("tbody").remove();
     d3.selectAll("td").remove();
 
-    const table = d3.select("#table-matches");
+    const table = d3.selectAll("#table-matches");
 
     // header row
     const thead = table.append("thead").selectAll("th").data(Object.keys(matching_us_cities[0]).slice(2)).join("th");
@@ -232,5 +232,31 @@ async function draw() {
       }
     });
   }
+
+  // change order of text elements
+
+  // const initialWidth = window.width;
+  // var lastX = window.innerWidth;
+  // var lastY = window.innerHeight;
+  // window.addEventListener("resize", function () {
+  //   var x = window.innerWidth;
+  //   var y = window.innerHeight;
+  //   if (lastX <= 1100) {
+  //     const textContainer = document.querySelector(".text-container");
+  //     textContainer.replaceWith(...textContainer.childNodes);
+  //   }
+  //   lastX = x;
+  //   lastY = y;
+
+  //   // if (window.width !== initialWidth) {
+  //   //   const mediaQuery = window.matchMedia("(max-width: 1100px)");
+
+  //   //   if (mediaQuery.matches) {
+  //   //     const textContainer = document.querySelector(".text-container");
+  //   //     textContainer.replaceWith(...textContainer.childNodes);
+  //   //   }
+  //   // }
+  // });
 }
+
 draw();

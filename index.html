@@ -5,15 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./style.css" />
-    <title>As the World Turns</title>
+    <title>U.S. Cities with International Names</title>
   </head>
   <body>
     <div class="container">
-      <div id="app"></div>
-      <div class="text-container">
-        <div class="toggle"><input type="checkbox" /><span class="toggle-text">Click to rotate globe</span></div>
-        <h1>U.S. Cities with International Names</h1>
-        <div class="intro">
+      <div id="app" class="flex-item"></div>
+
+      <div class="text-container flex-item">
+        <div class="toggle text-flex">
+          <input type="checkbox" /><span class="toggle-text">Click to rotate globe</span>
+        </div>
+        <div class="title text-flex">U.S. Cities with International Names</div>
+        <div class="intro text-flex">
           The points on the globe represent major cities with names that match a place name in the U.S., either fully or
           partially. The matching names may or may not have a shared history; the only relationship meant to be conveyed
           here is the similarity in name.
@@ -28,14 +31,14 @@
           </p>
         </div>
 
-        <div class="boxed-text">
+        <div class="boxed-text text-flex">
           <ul class="directions">
             <li><i class="fa-solid fa-1"></i></li>
             <li>Click a major city on the globe</li>
           </ul>
           <ul class="directions">
             <li><i class="fa-solid fa-2"></i></li>
-            <li>See the U.S. locations of places with or containing the same name</li>
+            <li>See below the U.S. locations of places with or containing the same name</li>
           </ul>
         </div>
 
@@ -43,6 +46,17 @@
           <div class="matches-text"></div>
           <table id="table-matches"></table>
         </div>
+      </div>
+
+      <!-- Workaround: Duplicating table and resources used so they appear in different sequences on mobile -->
+      <div id="table-container-mobile" class="flex-item">
+        <div class="matches-text"></div>
+        <table id="table-matches"></table>
+      </div>
+      <div class="notes notes-mobile flex-item">
+        Resources used:
+        <a href="https://observablehq.com/@michael-keith/draggable-globe-in-d3">Draggable globe in D3</a>,
+        <a href="#">Dataset explainer</a>
       </div>
     </div>
     <script src="https://d3js.org/d3.v7.min.js"></script>

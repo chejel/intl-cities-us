@@ -23,7 +23,8 @@ a:hover {
   color: #19a7ce;
 }
 
-h1 {
+.title {
+  font-size: 2rem;
   font-family: "Playfair Display";
   font-weight: normal;
   margin: 1rem 0;
@@ -38,8 +39,9 @@ h1 {
 }
 
 .text-container {
+  display: flex;
+  flex-direction: column;
   margin-top: 2rem;
-  display: block;
 }
 
 .intro {
@@ -53,8 +55,12 @@ h1 {
   font-weight: bold;
   text-transform: uppercase;
   font-size: 0.8em;
-  color: #f7d060;
+  color: #a4df57;
   padding-top: 0.5rem;
+}
+
+.notes-mobile {
+  display: none;
 }
 
 .boxed-text {
@@ -77,9 +83,11 @@ h1 {
   max-height: 300px;
   height: auto;
   padding-right: 2rem;
-  margin-top: 1rem;
+  margin: 1rem 1rem 0 0;
   display: inline-block;
+  border-collapse: collapse;
 }
+
 #table-matches::-webkit-scrollbar {
   width: 0.5em;
   height: 1em;
@@ -96,14 +104,9 @@ h1 {
   border-radius: 100vw;
 }
 
-#table-matches {
-  border-collapse: collapse;
-  /* width: 450px; */
-  margin-right: 1rem;
-}
-
 #table-matches thead th {
   padding-bottom: 0.5rem;
+  min-width: 200px;
 }
 #table-matches tbody tr:not(:last-child) {
   border-bottom: 0.75px dashed #627eb3;
@@ -147,7 +150,7 @@ ul.directions:first-child {
 input {
   cursor: pointer;
   position: relative;
-  width: 50px;
+  width: 40px;
   height: 20px;
   border-radius: 20px;
   border: 1px solid #afd3e2;
@@ -195,15 +198,20 @@ input:checked::after {
   vertical-align: top;
 }
 
+#table-container-mobile {
+  display: none;
+}
+
 @media screen and (max-width: 1100px) {
   .container {
-    flex-wrap: wrap;
+    flex-direction: column;
     gap: 0;
     padding-top: 2rem;
+    align-items: center;
   }
 
-  .text-container {
-    width: 60vw;
+  .title {
+    font-size: 1.8em;
   }
 
   .boxed-text {
@@ -219,8 +227,50 @@ input:checked::after {
     padding-bottom: 2rem;
     display: inline-block;
   }
-}
 
-@media screen and (max-width: 720px) {
-  /* add horizontal scroll on globe */
+  #table-container {
+    display: none;
+  }
+
+  #table-container-mobile {
+    display: block;
+  }
+
+  .flex-item:nth-of-type(1) {
+    order: 2;
+  }
+  .flex-item:nth-of-type(2) {
+    margin-top: 1rem;
+    order: 1;
+  }
+  .flex-item:nth-of-type(3) {
+    order: 3;
+  }
+
+  .flex-item:nth-of-type(4) {
+    order: 4;
+  }
+
+  .text-flex:nth-of-type(1) {
+    text-align: center;
+    margin-top: 1rem;
+    order: 4;
+  }
+  .text-flex:nth-of-type(2) {
+    margin-top: 0;
+    order: 1;
+  }
+  .text-flex:nth-of-type(3) {
+    order: 2;
+  }
+  .text-flex:nth-of-type(4) {
+    order: 3;
+  }
+
+  .notes {
+    display: none;
+  }
+  .notes-mobile {
+    display: block;
+  }
 }
