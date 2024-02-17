@@ -150,9 +150,8 @@ async function draw() {
       .append("text")
       .attr("class", "matches-text")
       .html(
-        `<span style="font-weight:bold; color:#f7d060;">${e.city}</span> ${
-          e.flag_emoji
-        } matches <span style="color:#f7d060;">${matching_us_cities.length}</span> U.S. ${
+        `<span style="font-weight:bold; color:#f7d060;">${e.city}, ${e.country}
+        </span> matches <span style="color:#f7d060;">${matching_us_cities.length}</span> U.S. ${
           matching_us_cities.length > 1 ? "municipalities" : "municipality"
         }:`
       );
@@ -232,31 +231,6 @@ async function draw() {
       }
     });
   }
-
-  // change order of text elements
-
-  // const initialWidth = window.width;
-  // var lastX = window.innerWidth;
-  // var lastY = window.innerHeight;
-  // window.addEventListener("resize", function () {
-  //   var x = window.innerWidth;
-  //   var y = window.innerHeight;
-  //   if (lastX <= 1100) {
-  //     const textContainer = document.querySelector(".text-container");
-  //     textContainer.replaceWith(...textContainer.childNodes);
-  //   }
-  //   lastX = x;
-  //   lastY = y;
-
-  //   // if (window.width !== initialWidth) {
-  //   //   const mediaQuery = window.matchMedia("(max-width: 1100px)");
-
-  //   //   if (mediaQuery.matches) {
-  //   //     const textContainer = document.querySelector(".text-container");
-  //   //     textContainer.replaceWith(...textContainer.childNodes);
-  //   //   }
-  //   // }
-  // });
 }
 
 draw();
