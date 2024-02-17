@@ -70,7 +70,7 @@ a:hover {
 }
 
 .matches-text {
-  margin-top: 2rem;
+  margin-top: 1rem;
   font-family: "Raleway";
   font-size: 1.1em;
   font-weight: 400;
@@ -239,15 +239,15 @@ input:checked::after {
   .flex-item:nth-of-type(1) {
     order: 2;
   }
-  .flex-item:nth-of-type(2) {
+  .flex-item:nth-of-type(3) {
     margin-top: 1rem;
     order: 1;
   }
-  .flex-item:nth-of-type(3) {
+  .flex-item:nth-of-type(4) {
     order: 3;
   }
 
-  .flex-item:nth-of-type(4) {
+  .flex-item:nth-of-type(5) {
     order: 4;
   }
 
