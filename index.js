@@ -150,7 +150,7 @@ async function draw() {
       .append("text")
       .attr("class", "matches-text")
       .html(
-        `<span style="font-weight:bold; color:#f7d060;">${e.city}, ${e.country}
+        `<span style="font-weight:bold; color:#f7d060;">${e.city}, ${e.country} ${e.flag_emoji}
         </span> matches <span style="color:#f7d060;">${matching_us_cities.length}</span> U.S. ${
           matching_us_cities.length > 1 ? "municipalities" : "municipality"
         }:`
